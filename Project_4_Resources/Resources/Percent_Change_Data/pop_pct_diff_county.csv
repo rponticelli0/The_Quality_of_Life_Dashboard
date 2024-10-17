@@ -1,0 +1,3146 @@
+﻿table with row headers in column A and column headers in rows 3 through 4 (leading dots indicate sub-parts),,,
+Geographic Area,2022,2023,pct_diff
+".Autauga County, Alabama","59,726","60,342",1.03
+".Baldwin County, Alabama","246,531","253,507",2.83
+".Barbour County, Alabama","24,700","24,585",-0.47
+".Bibb County, Alabama","21,986","21,868",-0.54
+".Blount County, Alabama","59,516","59,816",0.50
+".Bullock County, Alabama","10,143","9,897",-2.43
+".Butler County, Alabama","18,668","18,382",-1.53
+".Calhoun County, Alabama","115,780","116,429",0.56
+".Chambers County, Alabama","34,164","34,079",-0.25
+".Cherokee County, Alabama","25,353","25,666",1.23
+".Chilton County, Alabama","45,848","46,431",1.27
+".Choctaw County, Alabama","12,431","12,252",-1.44
+".Clarke County, Alabama","22,574","22,337",-1.05
+".Clay County, Alabama","14,183","14,111",-0.51
+".Cleburne County, Alabama","15,372","15,639",1.74
+".Coffee County, Alabama","54,840","55,643",1.46
+".Colbert County, Alabama","57,993","58,361",0.63
+".Conecuh County, Alabama","11,224","11,174",-0.45
+".Coosa County, Alabama","10,307","10,268",-0.38
+".Covington County, Alabama","37,603","37,952",0.93
+".Crenshaw County, Alabama","13,048","13,101",0.41
+".Cullman County, Alabama","90,663","92,016",1.49
+".Dale County, Alabama","49,495","49,871",0.76
+".Dallas County, Alabama","36,729","36,165",-1.54
+".DeKalb County, Alabama","72,082","72,569",0.68
+".Elmore County, Alabama","89,600","90,441",0.94
+".Escambia County, Alabama","36,636","36,558",-0.21
+".Etowah County, Alabama","102,903","103,241",0.33
+".Fayette County, Alabama","16,082","15,967",-0.72
+".Franklin County, Alabama","31,910","31,802",-0.34
+".Geneva County, Alabama","26,760","26,988",0.85
+".Greene County, Alabama","7,452","7,341",-1.49
+".Hale County, Alabama","14,599","14,888",1.98
+".Henry County, Alabama","17,670","17,899",1.30
+".Houston County, Alabama","108,047","108,462",0.38
+".Jackson County, Alabama","52,923","53,467",1.03
+".Jefferson County, Alabama","665,084","662,895",-0.33
+".Lamar County, Alabama","13,706","13,661",-0.33
+".Lauderdale County, Alabama","95,875","96,814",0.98
+".Lawrence County, Alabama","33,187","33,502",0.95
+".Lee County, Alabama","180,698","183,215",1.39
+".Limestone County, Alabama","110,868","114,654",3.41
+".Lowndes County, Alabama","9,783","9,717",-0.67
+".Macon County, Alabama","18,532","18,370",-0.87
+".Madison County, Alabama","403,605","412,600",2.23
+".Marengo County, Alabama","18,791","18,684",-0.57
+".Marion County, Alabama","29,182","29,244",0.21
+".Marshall County, Alabama","99,428","100,756",1.34
+".Mobile County, Alabama","411,398","411,640",0.06
+".Monroe County, Alabama","19,412","19,229",-0.94
+".Montgomery County, Alabama","226,301","224,980",-0.58
+".Morgan County, Alabama","124,231","125,133",0.73
+".Perry County, Alabama","7,904","7,738",-2.10
+".Pickens County, Alabama","18,749","18,688",-0.33
+".Pike County, Alabama","33,008","33,137",0.39
+".Randolph County, Alabama","22,460","22,786",1.45
+".Russell County, Alabama","58,594","58,744",0.26
+".St. Clair County, Alabama","93,881","95,552",1.78
+".Shelby County, Alabama","230,033","233,000",1.29
+".Sumter County, Alabama","11,889","11,727",-1.36
+".Talladega County, Alabama","80,748","81,132",0.48
+".Tallapoosa County, Alabama","40,913","40,677",-0.58
+".Tuscaloosa County, Alabama","236,690","237,373",0.29
+".Walker County, Alabama","64,438","64,728",0.45
+".Washington County, Alabama","15,094","15,022",-0.48
+".Wilcox County, Alabama","10,139","9,944",-1.92
+".Winston County, Alabama","23,741","23,611",-0.55
+".Aleutians East Borough, Alaska","3,430","3,461",0.90
+".Aleutians West Census Area, Alaska","5,090","5,160",1.38
+".Anchorage Municipality, Alaska","286,983","286,075",-0.32
+".Bethel Census Area, Alaska","18,259","18,224",-0.19
+".Bristol Bay Borough, Alaska",870,844,-2.99
+".Chugach Census Area, Alaska","6,899","6,769",-1.88
+".Copper River Census Area, Alaska","2,609","2,674",2.49
+".Denali Borough, Alaska","1,575","1,584",0.57
+".Dillingham Census Area, Alaska","4,724","4,607",-2.48
+".Fairbanks North Star Borough, Alaska","95,202","94,840",-0.38
+".Haines Borough, Alaska","2,070","2,070",0.00
+".Hoonah-Angoon Census Area, Alaska","2,279","2,262",-0.75
+".Juneau City and Borough, Alaska","31,740","31,555",-0.58
+".Kenai Peninsula Borough, Alaska","60,611","61,223",1.01
+".Ketchikan Gateway Borough, Alaska","13,772","13,738",-0.25
+".Kodiak Island Borough, Alaska","12,639","12,565",-0.59
+".Kusilvak Census Area, Alaska","8,214","8,001",-2.59
+".Lake and Peninsula Borough, Alaska","1,377","1,331",-3.34
+".Matanuska-Susitna Borough, Alaska","113,472","115,239",1.56
+".Nome Census Area, Alaska","9,791","9,763",-0.29
+".North Slope Borough, Alaska","10,811","10,603",-1.92
+".Northwest Arctic Borough, Alaska","7,453","7,361",-1.23
+".Petersburg Borough, Alaska","3,370","3,427",1.69
+".Prince of Wales-Hyder Census Area, Alaska","5,650","5,696",0.81
+".Sitka City and Borough, Alaska","8,353","8,282",-0.85
+".Skagway Municipality, Alaska","1,092","1,095",0.27
+".Southeast Fairbanks Census Area, Alaska","7,016","7,077",0.87
+".Wrangell City and Borough, Alaska","2,071","2,064",-0.34
+".Yakutat City and Borough, Alaska",685,687,0.29
+".Yukon-Koyukuk Census Area, Alaska","5,169","5,129",-0.77
+".Apache County, Arizona","65,533","65,036",-0.76
+".Cochise County, Arizona","125,487","124,640",-0.67
+".Coconino County, Arizona","144,223","144,472",0.17
+".Gila County, Arizona","53,922","54,003",0.15
+".Graham County, Arizona","38,822","39,525",1.81
+".Greenlee County, Arizona","9,327","9,369",0.45
+".La Paz County, Arizona","16,535","16,710",1.06
+".Maricopa County, Arizona","4,555,833","4,585,871",0.66
+".Mohave County, Arizona","220,905","223,682",1.26
+".Navajo County, Arizona","108,800","109,175",0.34
+".Pima County, Arizona","1,057,476","1,063,162",0.54
+".Pinal County, Arizona","465,037","484,239",4.13
+".Santa Cruz County, Arizona","48,680","49,158",0.98
+".Yavapai County, Arizona","246,230","249,081",1.16
+".Yuma County, Arizona","208,874","213,221",2.08
+".Arkansas County, Arkansas","16,498","16,307",-1.16
+".Ashley County, Arkansas","18,348","18,262",-0.47
+".Baxter County, Arkansas","42,485","42,875",0.92
+".Benton County, Arkansas","302,822","311,013",2.70
+".Boone County, Arkansas","38,280","38,530",0.65
+".Bradley County, Arkansas","10,168","10,104",-0.63
+".Calhoun County, Arkansas","4,687","4,641",-0.98
+".Carroll County, Arkansas","28,717","28,814",0.34
+".Chicot County, Arkansas","9,834","9,538",-3.01
+".Clark County, Arkansas","21,276","21,274",-0.01
+".Clay County, Arkansas","14,271","14,201",-0.49
+".Cleburne County, Arkansas","25,253","25,445",0.76
+".Cleveland County, Arkansas","7,467","7,378",-1.19
+".Columbia County, Arkansas","22,286","22,150",-0.61
+".Conway County, Arkansas","21,021","21,077",0.27
+".Craighead County, Arkansas","112,863","113,993",1.00
+".Crawford County, Arkansas","61,041","61,891",1.39
+".Crittenden County, Arkansas","47,051","47,139",0.19
+".Cross County, Arkansas","16,590","16,420",-1.02
+".Dallas County, Arkansas","6,196","6,185",-0.18
+".Desha County, Arkansas","10,758","10,479",-2.59
+".Drew County, Arkansas","16,912","16,945",0.20
+".Faulkner County, Arkansas","127,565","129,951",1.87
+".Franklin County, Arkansas","17,270","17,468",1.15
+".Fulton County, Arkansas","12,355","12,421",0.53
+".Garland County, Arkansas","99,982","99,784",-0.20
+".Grant County, Arkansas","18,129","18,383",1.40
+".Greene County, Arkansas","46,408","46,743",0.72
+".Hempstead County, Arkansas","19,481","19,343",-0.71
+".Hot Spring County, Arkansas","33,149","33,258",0.33
+".Howard County, Arkansas","12,622","12,533",-0.71
+".Independence County, Arkansas","38,254","38,320",0.17
+".Izard County, Arkansas","14,029","14,169",1.00
+".Jackson County, Arkansas","16,654","16,784",0.78
+".Jefferson County, Arkansas","64,295","63,661",-0.99
+".Johnson County, Arkansas","25,970","26,129",0.61
+".Lafayette County, Arkansas","6,129","6,095",-0.55
+".Lawrence County, Arkansas","16,194","16,318",0.77
+".Lee County, Arkansas","8,367","8,201",-1.98
+".Lincoln County, Arkansas","12,910","12,898",-0.09
+".Little River County, Arkansas","11,865","11,805",-0.51
+".Logan County, Arkansas","21,258","21,400",0.67
+".Lonoke County, Arkansas","75,199","75,944",0.99
+".Madison County, Arkansas","17,463","17,775",1.79
+".Marion County, Arkansas","17,289","17,514",1.30
+".Miller County, Arkansas","42,608","42,415",-0.45
+".Mississippi County, Arkansas","38,863","38,663",-0.51
+".Monroe County, Arkansas","6,568","6,512",-0.85
+".Montgomery County, Arkansas","8,543","8,620",0.90
+".Nevada County, Arkansas","8,179","8,120",-0.72
+".Newton County, Arkansas","7,101","7,071",-0.42
+".Ouachita County, Arkansas","21,994","21,793",-0.91
+".Perry County, Arkansas","10,073","10,184",1.10
+".Phillips County, Arkansas","15,350","14,961",-2.53
+".Pike County, Arkansas","10,159","10,208",0.48
+".Poinsett County, Arkansas","22,453","22,397",-0.25
+".Polk County, Arkansas","19,334","19,436",0.53
+".Pope County, Arkansas","64,053","64,593",0.84
+".Prairie County, Arkansas","8,077","8,036",-0.51
+".Pulaski County, Arkansas","399,387","400,009",0.16
+".Randolph County, Arkansas","18,852","18,907",0.29
+".St. Francis County, Arkansas","22,402","22,101",-1.34
+".Saline County, Arkansas","127,415","129,574",1.69
+".Scott County, Arkansas","9,796","9,851",0.56
+".Searcy County, Arkansas","7,906","7,806",-1.26
+".Sebastian County, Arkansas","129,109","129,098",-0.01
+".Sevier County, Arkansas","15,738","15,632",-0.67
+".Sharp County, Arkansas","17,836","17,968",0.74
+".Stone County, Arkansas","12,585","12,671",0.68
+".Union County, Arkansas","37,813","37,397",-1.10
+".Van Buren County, Arkansas","16,103","16,142",0.24
+".Washington County, Arkansas","256,682","261,549",1.90
+".White County, Arkansas","77,616","78,452",1.08
+".Woodruff County, Arkansas","6,057","5,964",-1.54
+".Yell County, Arkansas","20,091","20,044",-0.23
+".Alameda County, California","1,628,259","1,622,188",-0.37
+".Alpine County, California","1,190","1,141",-4.12
+".Amador County, California","41,493","41,811",0.77
+".Butte County, California","207,369","207,172",-0.09
+".Calaveras County, California","46,556","46,565",0.02
+".Colusa County, California","21,909","22,037",0.58
+".Contra Costa County, California","1,157,019","1,155,025",-0.17
+".Del Norte County, California","27,112","26,589",-1.93
+".El Dorado County, California","192,787","192,215",-0.30
+".Fresno County, California","1,015,359","1,017,162",0.18
+".Glenn County, California","28,360","28,129",-0.81
+".Humboldt County, California","134,944","133,985",-0.71
+".Imperial County, California","178,940","179,057",0.07
+".Inyo County, California","18,742","18,527",-1.15
+".Kern County, California","916,751","913,820",-0.32
+".Kings County, California","152,987","152,682",-0.20
+".Lake County, California","68,172","67,878",-0.43
+".Lassen County, California","30,020","28,861",-3.86
+".Los Angeles County, California","9,719,765","9,663,345",-0.58
+".Madera County, California","160,329","162,858",1.58
+".Marin County, California","256,154","254,407",-0.68
+".Mariposa County, California","17,053","16,919",-0.79
+".Mendocino County, California","90,007","89,108",-1.00
+".Merced County, California","290,210","291,920",0.59
+".Modoc County, California","8,619","8,500",-1.38
+".Mono County, California","13,002","13,066",0.49
+".Monterey County, California","432,884","430,723",-0.50
+".Napa County, California","134,370","133,216",-0.86
+".Nevada County, California","102,401","102,037",-0.36
+".Orange County, California","3,150,372","3,135,755",-0.46
+".Placer County, California","418,074","423,561",1.31
+".Plumas County, California","19,443","19,131",-1.60
+".Riverside County, California","2,474,241","2,492,442",0.74
+".Sacramento County, California","1,584,380","1,584,288",-0.01
+".San Benito County, California","67,643","68,175",0.79
+".San Bernardino County, California","2,194,908","2,195,611",0.03
+".San Diego County, California","3,277,176","3,269,973",-0.22
+".San Francisco County, California","807,774","808,988",0.15
+".San Joaquin County, California","794,293","800,965",0.84
+".San Luis Obispo County, California","282,046","281,639",-0.14
+".San Mateo County, California","728,929","726,353",-0.35
+".Santa Barbara County, California","443,915","441,257",-0.60
+".Santa Clara County, California","1,878,335","1,877,592",-0.04
+".Santa Cruz County, California","264,240","261,547",-1.02
+".Shasta County, California","180,937","180,366",-0.32
+".Sierra County, California","3,222","3,200",-0.68
+".Siskiyou County, California","43,786","42,905",-2.01
+".Solano County, California","448,885","449,218",0.07
+".Sonoma County, California","482,669","481,812",-0.18
+".Stanislaus County, California","551,226","551,430",0.04
+".Sutter County, California","98,569","97,948",-0.63
+".Tehama County, California","65,299","64,896",-0.62
+".Trinity County, California","15,778","15,670",-0.68
+".Tulare County, California","477,884","479,468",0.33
+".Tuolumne County, California","54,587","54,204",-0.70
+".Ventura County, California","832,871","829,590",-0.39
+".Yolo County, California","222,018","220,544",-0.66
+".Yuba County, California","84,353","85,722",1.62
+".Adams County, Colorado","527,509","533,365",1.11
+".Alamosa County, Colorado","16,587","16,655",0.41
+".Arapahoe County, Colorado","656,269","656,061",-0.03
+".Archuleta County, Colorado","13,989","14,189",1.43
+".Baca County, Colorado","3,435","3,344",-2.65
+".Bent County, Colorado","5,439","5,681",4.45
+".Boulder County, Colorado","327,339","326,831",-0.16
+".Broomfield County, Colorado","76,195","76,860",0.87
+".Chaffee County, Colorado","20,265","20,617",1.74
+".Cheyenne County, Colorado","1,731","1,727",-0.23
+".Clear Creek County, Colorado","9,367","9,147",-2.35
+".Conejos County, Colorado","7,587","7,521",-0.87
+".Costilla County, Colorado","3,615","3,628",0.36
+".Crowley County, Colorado","5,627","5,636",0.16
+".Custer County, Colorado","5,337","5,534",3.69
+".Delta County, Colorado","31,560","31,746",0.59
+".Denver County, Colorado","713,453","716,577",0.44
+".Dolores County, Colorado","2,460","2,513",2.15
+".Douglas County, Colorado","375,937","383,906",2.12
+".Eagle County, Colorado","55,218","54,381",-1.52
+".Elbert County, Colorado","27,842","28,806",3.46
+".El Paso County, Colorado","740,596","744,215",0.49
+".Fremont County, Colorado","49,616","50,318",1.41
+".Garfield County, Colorado","62,256","62,707",0.72
+".Gilpin County, Colorado","5,886","5,926",0.68
+".Grand County, Colorado","15,734","15,935",1.28
+".Gunnison County, Colorado","17,320","17,321",0.01
+".Hinsdale County, Colorado",771,765,-0.78
+".Huerfano County, Colorado","7,097","7,055",-0.59
+".Jackson County, Colorado","1,314","1,309",-0.38
+".Jefferson County, Colorado","575,811","576,366",0.10
+".Kiowa County, Colorado","1,434","1,384",-3.49
+".Kit Carson County, Colorado","6,983","6,994",0.16
+".Lake County, Colorado","7,346","7,365",0.26
+".La Plata County, Colorado","56,553","56,407",-0.26
+".Larimer County, Colorado","367,577","370,771",0.87
+".Las Animas County, Colorado","14,311","14,348",0.26
+".Lincoln County, Colorado","5,510","5,480",-0.54
+".Logan County, Colorado","20,792","20,619",-0.83
+".Mesa County, Colorado","158,531","159,681",0.73
+".Mineral County, Colorado",931,944,1.40
+".Moffat County, Colorado","13,205","13,327",0.92
+".Montezuma County, Colorado","26,467","26,531",0.24
+".Montrose County, Colorado","43,807","44,156",0.80
+".Morgan County, Colorado","29,266","29,524",0.88
+".Otero County, Colorado","18,311","18,136",-0.96
+".Ouray County, Colorado","5,103","5,176",1.43
+".Park County, Colorado","17,921","18,117",1.09
+".Phillips County, Colorado","4,448","4,476",0.63
+".Pitkin County, Colorado","16,847","16,640",-1.23
+".Prowers County, Colorado","11,873","11,751",-1.03
+".Pueblo County, Colorado","169,472","169,422",-0.03
+".Rio Blanco County, Colorado","6,549","6,569",0.31
+".Rio Grande County, Colorado","11,337","11,188",-1.31
+".Routt County, Colorado","25,072","25,064",-0.03
+".Saguache County, Colorado","6,627","6,688",0.92
+".San Juan County, Colorado",806,802,-0.50
+".San Miguel County, Colorado","8,008","7,868",-1.75
+".Sedgwick County, Colorado","2,286","2,299",0.57
+".Summit County, Colorado","30,636","30,465",-0.56
+".Teller County, Colorado","24,860","24,617",-0.98
+".Washington County, Colorado","4,847","4,855",0.17
+".Weld County, Colorado","350,266","359,442",2.62
+".Yuma County, Colorado","9,895","9,862",-0.33
+".Capitol Planning Region, Connecticut","972,068","975,328",0.34
+".Greater Bridgeport Planning Region, Connecticut","327,125","327,651",0.16
+".Lower Connecticut River Valley Planning Region, Connecticut","175,982","176,215",0.13
+".Naugatuck Valley Planning Region, Connecticut","453,590","456,128",0.56
+".Northeastern Connecticut Planning Region, Connecticut","96,148","96,692",0.57
+".Northwest Hills Planning Region, Connecticut","113,277","113,463",0.16
+".South Central Connecticut Planning Region, Connecticut","568,402","568,158",-0.04
+".Southeastern Connecticut Planning Region, Connecticut","279,257","279,634",0.14
+".Western Connecticut Planning Region, Connecticut","622,857","623,907",0.17
+".Kent County, Delaware","187,758","189,789",1.08
+".New Castle County, Delaware","575,254","578,592",0.58
+".Sussex County, Delaware","256,447","263,509",2.75
+".District of Columbia, District of Columbia","670,949","678,972",1.20
+".Alachua County, Florida","284,041","285,994",0.69
+".Baker County, Florida","27,786","28,368",2.09
+".Bay County, Florida","185,210","190,769",3.00
+".Bradford County, Florida","27,296","27,858",2.06
+".Brevard County, Florida","630,707","643,979",2.10
+".Broward County, Florida","1,946,889","1,962,531",0.80
+".Calhoun County, Florida","13,465","13,470",0.04
+".Charlotte County, Florida","202,582","206,134",1.75
+".Citrus County, Florida","162,508","166,696",2.58
+".Clay County, Florida","226,634","232,439",2.56
+".Collier County, Florida","397,516","404,310",1.71
+".Columbia County, Florida","71,870","73,063",1.66
+".DeSoto County, Florida","35,320","35,979",1.87
+".Dixie County, Florida","17,120","17,465",2.02
+".Duval County, Florida","1,017,011","1,030,822",1.36
+".Escambia County, Florida","323,860","326,928",0.95
+".Flagler County, Florida","126,758","131,439",3.69
+".Franklin County, Florida","12,492","12,594",0.82
+".Gadsden County, Florida","43,393","43,833",1.01
+".Gilchrist County, Florida","19,002","19,587",3.08
+".Glades County, Florida","12,463","12,786",2.59
+".Gulf County, Florida","15,299","15,693",2.58
+".Hamilton County, Florida","13,194","13,471",2.10
+".Hardee County, Florida","25,651","25,760",0.42
+".Hendry County, Florida","41,391","43,333",4.69
+".Hernando County, Florida","206,935","212,807",2.84
+".Highlands County, Florida","105,649","107,614",1.86
+".Hillsborough County, Florida","1,513,473","1,535,564",1.46
+".Holmes County, Florida","19,653","19,944",1.48
+".Indian River County, Florida","167,267","169,795",1.51
+".Jackson County, Florida","48,255","48,622",0.76
+".Jefferson County, Florida","15,069","15,450",2.53
+".Lafayette County, Florida","7,777","8,078",3.87
+".Lake County, Florida","410,090","424,462",3.50
+".Lee County, Florida","822,391","834,573",1.48
+".Leon County, Florida","297,282","296,913",-0.12
+".Levy County, Florida","45,253","46,545",2.86
+".Liberty County, Florida","7,613","7,706",1.22
+".Madison County, Florida","18,230","18,519",1.59
+".Manatee County, Florida","429,169","441,095",2.78
+".Marion County, Florida","396,437","409,959",3.41
+".Martin County, Florida","161,987","163,315",0.82
+".Miami-Dade County, Florida","2,673,056","2,686,867",0.52
+".Monroe County, Florida","81,618","80,614",-1.23
+".Nassau County, Florida","97,826","101,501",3.76
+".Okaloosa County, Florida","216,464","218,464",0.92
+".Okeechobee County, Florida","40,373","41,427",2.61
+".Orange County, Florida","1,451,761","1,471,416",1.35
+".Osceola County, Florida","422,543","437,784",3.61
+".Palm Beach County, Florida","1,519,867","1,533,801",0.92
+".Pasco County, Florida","609,141","632,996",3.92
+".Pinellas County, Florida","961,792","961,596",-0.02
+".Polk County, Florida","788,382","818,330",3.80
+".Putnam County, Florida","74,736","75,955",1.63
+".St. Johns County, Florida","307,072","320,110",4.25
+".St. Lucie County, Florida","358,886","373,586",4.10
+".Santa Rosa County, Florida","198,199","203,162",2.50
+".Sarasota County, Florida","462,552","469,013",1.40
+".Seminole County, Florida","478,623","484,271",1.18
+".Sumter County, Florida","144,767","151,565",4.70
+".Suwannee County, Florida","45,405","46,130",1.60
+".Taylor County, Florida","21,313","21,582",1.26
+".Union County, Florida","15,514","15,532",0.12
+".Volusia County, Florida","579,665","590,357",1.84
+".Wakulla County, Florida","35,169","36,449",3.64
+".Walton County, Florida","83,404","86,354",3.54
+".Washington County, Florida","25,405","25,602",0.78
+".Appling County, Georgia","18,437","18,457",0.11
+".Atkinson County, Georgia","8,160","8,293",1.63
+".Bacon County, Georgia","11,173","11,124",-0.44
+".Baker County, Georgia","2,792","2,743",-1.76
+".Baldwin County, Georgia","43,633","43,396",-0.54
+".Banks County, Georgia","19,342","19,789",2.31
+".Barrow County, Georgia","89,245","92,792",3.97
+".Bartow County, Georgia","112,815","115,041",1.97
+".Ben Hill County, Georgia","17,057","17,128",0.42
+".Berrien County, Georgia","18,215","18,570",1.95
+".Bibb County, Georgia","156,126","156,512",0.25
+".Bleckley County, Georgia","12,279","12,465",1.51
+".Brantley County, Georgia","18,210","18,401",1.05
+".Brooks County, Georgia","16,284","16,245",-0.24
+".Bryan County, Georgia","48,218","49,739",3.15
+".Bulloch County, Georgia","83,038","84,327",1.55
+".Burke County, Georgia","24,434","24,438",0.02
+".Butts County, Georgia","26,745","26,887",0.53
+".Calhoun County, Georgia","5,474","5,457",-0.31
+".Camden County, Georgia","56,971","58,118",2.01
+".Candler County, Georgia","10,962","11,059",0.88
+".Carroll County, Georgia","124,530","127,098",2.06
+".Catoosa County, Georgia","68,836","68,910",0.11
+".Charlton County, Georgia","12,788","12,934",1.14
+".Chatham County, Georgia","301,025","303,655",0.87
+".Chattahoochee County, Georgia","8,746","8,661",-0.97
+".Chattooga County, Georgia","24,962","25,222",1.04
+".Cherokee County, Georgia","281,194","286,602",1.92
+".Clarke County, Georgia","129,726","129,933",0.16
+".Clay County, Georgia","2,853","2,853",0.00
+".Clayton County, Georgia","298,399","298,300",-0.03
+".Clinch County, Georgia","6,679","6,746",1.00
+".Cobb County, Georgia","771,840","776,743",0.64
+".Coffee County, Georgia","43,247","43,317",0.16
+".Colquitt County, Georgia","45,830","46,167",0.74
+".Columbia County, Georgia","162,471","165,162",1.66
+".Cook County, Georgia","17,409","17,714",1.75
+".Coweta County, Georgia","152,879","155,892",1.97
+".Crawford County, Georgia","12,169","12,277",0.89
+".Crisp County, Georgia","19,729","19,631",-0.50
+".Dade County, Georgia","16,090","16,165",0.47
+".Dawson County, Georgia","30,189","31,732",5.11
+".Decatur County, Georgia","29,019","29,087",0.23
+".DeKalb County, Georgia","761,779","762,992",0.16
+".Dodge County, Georgia","19,873","19,776",-0.49
+".Dooly County, Georgia","10,585","10,981",3.74
+".Dougherty County, Georgia","82,895","82,645",-0.30
+".Douglas County, Georgia","147,453","149,160",1.16
+".Early County, Georgia","10,560","10,563",0.03
+".Echols County, Georgia","3,686","3,709",0.62
+".Effingham County, Georgia","69,034","71,541",3.63
+".Elbert County, Georgia","19,873","20,013",0.70
+".Emanuel County, Georgia","22,946","23,119",0.75
+".Evans County, Georgia","10,659","10,754",0.89
+".Fannin County, Georgia","25,733","25,955",0.86
+".Fayette County, Georgia","121,981","123,351",1.12
+".Floyd County, Georgia","99,437","100,113",0.68
+".Forsyth County, Georgia","267,312","272,887",2.09
+".Franklin County, Georgia","24,146","24,782",2.63
+".Fulton County, Georgia","1,073,698","1,079,105",0.50
+".Gilmer County, Georgia","32,403","32,860",1.41
+".Glascock County, Georgia","2,928","2,954",0.89
+".Glynn County, Georgia","85,145","86,172",1.21
+".Gordon County, Georgia","58,855","59,757",1.53
+".Grady County, Georgia","25,994","26,066",0.28
+".Greene County, Georgia","20,111","20,722",3.04
+".Gwinnett County, Georgia","976,173","983,526",0.75
+".Habersham County, Georgia","47,465","48,757",2.72
+".Hall County, Georgia","212,621","217,267",2.19
+".Hancock County, Georgia","8,417","8,676",3.08
+".Haralson County, Georgia","31,355","32,038",2.18
+".Harris County, Georgia","36,257","36,654",1.09
+".Hart County, Georgia","26,886","27,556",2.49
+".Heard County, Georgia","11,716","12,034",2.71
+".Henry County, Georgia","248,472","254,613",2.47
+".Houston County, Georgia","169,775","171,974",1.30
+".Irwin County, Georgia","9,114","9,120",0.07
+".Jackson County, Georgia","84,009","88,615",5.48
+".Jasper County, Georgia","15,979","16,455",2.98
+".Jeff Davis County, Georgia","14,891","14,906",0.10
+".Jefferson County, Georgia","15,294","15,183",-0.73
+".Jenkins County, Georgia","8,655","8,627",-0.32
+".Johnson County, Georgia","9,211","9,282",0.77
+".Jones County, Georgia","28,512","28,969",1.60
+".Lamar County, Georgia","19,473","20,401",4.77
+".Lanier County, Georgia","10,177","10,452",2.70
+".Laurens County, Georgia","49,710","49,941",0.46
+".Lee County, Georgia","33,678","33,872",0.58
+".Liberty County, Georgia","67,919","69,210",1.90
+".Lincoln County, Georgia","7,859","7,879",0.25
+".Long County, Georgia","18,395","19,594",6.52
+".Lowndes County, Georgia","119,499","120,712",1.02
+".Lumpkin County, Georgia","34,706","35,258",1.59
+".McDuffie County, Georgia","21,690","21,799",0.50
+".McIntosh County, Georgia","11,183","11,501",2.84
+".Macon County, Georgia","11,777","11,817",0.34
+".Madison County, Georgia","31,450","32,191",2.36
+".Marion County, Georgia","7,436","7,440",0.05
+".Meriwether County, Georgia","20,890","20,931",0.20
+".Miller County, Georgia","5,774","5,747",-0.47
+".Mitchell County, Georgia","21,192","21,114",-0.37
+".Monroe County, Georgia","29,469","30,625",3.92
+".Montgomery County, Georgia","8,643","8,761",1.37
+".Morgan County, Georgia","21,024","21,460",2.07
+".Murray County, Georgia","40,410","41,035",1.55
+".Muscogee County, Georgia","202,432","201,877",-0.27
+".Newton County, Georgia","117,752","120,135",2.02
+".Oconee County, Georgia","43,624","44,182",1.28
+".Oglethorpe County, Georgia","15,531","15,754",1.44
+".Paulding County, Georgia","178,753","183,164",2.47
+".Peach County, Georgia","28,486","28,805",1.12
+".Pickens County, Georgia","34,825","35,969",3.28
+".Pierce County, Georgia","20,190","20,425",1.16
+".Pike County, Georgia","19,955","20,461",2.54
+".Polk County, Georgia","43,669","44,223",1.27
+".Pulaski County, Georgia","9,963","10,095",1.32
+".Putnam County, Georgia","22,933","23,129",0.85
+".Quitman County, Georgia","2,259","2,280",0.93
+".Rabun County, Georgia","17,267","17,442",1.01
+".Randolph County, Georgia","6,126","6,078",-0.78
+".Richmond County, Georgia","206,344","205,414",-0.45
+".Rockdale County, Georgia","94,945","95,987",1.10
+".Schley County, Georgia","4,497","4,526",0.64
+".Screven County, Georgia","13,970","14,174",1.46
+".Seminole County, Georgia","9,144","9,092",-0.57
+".Spalding County, Georgia","69,008","69,946",1.36
+".Stephens County, Georgia","26,746","27,228",1.80
+".Stewart County, Georgia","4,604","4,674",1.52
+".Sumter County, Georgia","28,864","28,890",0.09
+".Talbot County, Georgia","5,757","5,718",-0.68
+".Taliaferro County, Georgia","1,608","1,609",0.06
+".Tattnall County, Georgia","23,988","24,296",1.28
+".Taylor County, Georgia","7,762","7,758",-0.05
+".Telfair County, Georgia","12,378","10,920",-11.78
+".Terrell County, Georgia","8,792","8,718",-0.84
+".Thomas County, Georgia","45,551","45,649",0.22
+".Tift County, Georgia","41,335","41,554",0.53
+".Toombs County, Georgia","26,813","27,040",0.85
+".Towns County, Georgia","12,961","13,035",0.57
+".Treutlen County, Georgia","6,359","6,341",-0.28
+".Troup County, Georgia","70,247","70,742",0.70
+".Turner County, Georgia","8,836","8,909",0.83
+".Twiggs County, Georgia","7,676","7,691",0.20
+".Union County, Georgia","26,390","27,124",2.78
+".Upson County, Georgia","28,093","28,263",0.61
+".Walker County, Georgia","68,965","69,489",0.76
+".Walton County, Georgia","103,064","106,702",3.53
+".Ware County, Georgia","35,597","36,243",1.81
+".Warren County, Georgia","5,157","5,106",-0.99
+".Washington County, Georgia","19,765","19,820",0.28
+".Wayne County, Georgia","30,737","31,373",2.07
+".Webster County, Georgia","2,337","2,337",0.00
+".Wheeler County, Georgia","7,310","7,081",-3.13
+".White County, Georgia","28,804","29,026",0.77
+".Whitfield County, Georgia","103,095","103,687",0.57
+".Wilcox County, Georgia","8,751","8,779",0.32
+".Wilkes County, Georgia","9,565","9,518",-0.49
+".Wilkinson County, Georgia","8,677","8,725",0.55
+".Worth County, Georgia","20,431","20,273",-0.77
+".Hawaii County, Hawaii","206,348","207,615",0.61
+".Honolulu County, Hawaii","994,828","989,408",-0.54
+".Kalawao County, Hawaii",81,81,0.00
+".Kauai County, Hawaii","73,783","73,851",0.09
+".Maui County, Hawaii","164,359","164,183",-0.11
+".Ada County, Idaho","519,004","524,673",1.09
+".Adams County, Idaho","4,791","4,903",2.34
+".Bannock County, Idaho","89,625","90,400",0.86
+".Bear Lake County, Idaho","6,730","6,766",0.53
+".Benewah County, Idaho","10,291","10,369",0.76
+".Bingham County, Idaho","49,973","50,395",0.84
+".Blaine County, Idaho","24,901","25,041",0.56
+".Boise County, Idaho","8,360","8,517",1.88
+".Bonner County, Idaho","51,407","52,547",2.22
+".Bonneville County, Idaho","129,543","131,366",1.41
+".Boundary County, Idaho","13,272","13,557",2.15
+".Butte County, Idaho","2,698","2,758",2.22
+".Camas County, Idaho","1,169","1,232",5.39
+".Canyon County, Idaho","250,892","257,674",2.70
+".Caribou County, Idaho","7,200","7,219",0.26
+".Cassia County, Idaho","25,644","25,696",0.20
+".Clark County, Idaho",810,801,-1.11
+".Clearwater County, Idaho","9,035","9,214",1.98
+".Custer County, Idaho","4,518","4,523",0.11
+".Elmore County, Idaho","29,391","29,724",1.13
+".Franklin County, Idaho","15,170","15,494",2.14
+".Fremont County, Idaho","14,017","14,196",1.28
+".Gem County, Idaho","20,454","21,071",3.02
+".Gooding County, Idaho","15,879","16,061",1.15
+".Idaho County, Idaho","17,637","17,890",1.43
+".Jefferson County, Idaho","33,336","34,198",2.59
+".Jerome County, Idaho","25,244","25,479",0.93
+".Kootenai County, Idaho","183,290","185,010",0.94
+".Latah County, Idaho","40,924","41,301",0.92
+".Lemhi County, Idaho","8,284","8,441",1.90
+".Lewis County, Idaho","3,725","3,739",0.38
+".Lincoln County, Idaho","5,385","5,450",1.21
+".Madison County, Idaho","54,958","54,547",-0.75
+".Minidoka County, Idaho","22,208","22,480",1.22
+".Nez Perce County, Idaho","42,909","42,987",0.18
+".Oneida County, Idaho","4,740","4,953",4.49
+".Owyhee County, Idaho","12,645","12,722",0.61
+".Payette County, Idaho","26,929","27,279",1.30
+".Power County, Idaho","8,136","8,253",1.44
+".Shoshone County, Idaho","13,935","14,026",0.65
+".Teton County, Idaho","12,519","12,549",0.24
+".Twin Falls County, Idaho","93,821","95,156",1.42
+".Valley County, Idaho","12,450","12,644",1.56
+".Washington County, Idaho","11,147","11,425",2.49
+".Adams County, Illinois","64,556","64,441",-0.18
+".Alexander County, Illinois","4,841","4,695",-3.02
+".Bond County, Illinois","16,536","16,450",-0.52
+".Boone County, Illinois","53,068","53,202",0.25
+".Brown County, Illinois","6,316","6,294",-0.35
+".Bureau County, Illinois","32,827","32,729",-0.30
+".Calhoun County, Illinois","4,353","4,317",-0.83
+".Carroll County, Illinois","15,579","15,526",-0.34
+".Cass County, Illinois","12,638","12,596",-0.33
+".Champaign County, Illinois","206,169","205,644",-0.25
+".Christian County, Illinois","33,390","33,228",-0.49
+".Clark County, Illinois","15,160","15,088",-0.47
+".Clay County, Illinois","13,077","12,999",-0.60
+".Clinton County, Illinois","36,937","36,785",-0.41
+".Coles County, Illinois","46,346","46,060",-0.62
+".Cook County, Illinois","5,111,566","5,087,072",-0.48
+".Crawford County, Illinois","18,495","18,300",-1.05
+".Cumberland County, Illinois","10,308","10,261",-0.46
+".DeKalb County, Illinois","100,223","100,288",0.06
+".De Witt County, Illinois","15,365","15,365",0.00
+".Douglas County, Illinois","19,667","19,629",-0.19
+".DuPage County, Illinois","921,664","921,213",-0.05
+".Edgar County, Illinois","16,385","16,334",-0.31
+".Edwards County, Illinois","6,058","5,968",-1.49
+".Effingham County, Illinois","34,300","34,331",0.09
+".Fayette County, Illinois","21,270","21,164",-0.50
+".Ford County, Illinois","13,256","13,250",-0.05
+".Franklin County, Illinois","37,215","37,138",-0.21
+".Fulton County, Illinois","32,935","32,541",-1.20
+".Gallatin County, Illinois","4,823","4,670",-3.17
+".Greene County, Illinois","11,640","11,543",-0.83
+".Grundy County, Illinois","53,149","53,578",0.81
+".Hamilton County, Illinois","7,981","7,911",-0.88
+".Hancock County, Illinois","17,254","17,186",-0.39
+".Hardin County, Illinois","3,572","3,569",-0.08
+".Henderson County, Illinois","6,168","6,088",-1.30
+".Henry County, Illinois","48,596","48,448",-0.30
+".Iroquois County, Illinois","26,493","26,136",-1.35
+".Jackson County, Illinois","52,477","52,141",-0.64
+".Jasper County, Illinois","9,172","9,144",-0.31
+".Jefferson County, Illinois","36,419","36,320",-0.27
+".Jersey County, Illinois","21,191","21,091",-0.47
+".Jo Daviess County, Illinois","21,845","21,756",-0.41
+".Johnson County, Illinois","13,391","13,326",-0.49
+".Kane County, Illinois","514,139","514,982",0.16
+".Kankakee County, Illinois","105,998","105,940",-0.05
+".Kendall County, Illinois","137,494","139,976",1.81
+".Knox County, Illinois","48,620","48,411",-0.43
+".Lake County, Illinois","709,899","708,760",-0.16
+".LaSalle County, Illinois","108,181","108,309",0.12
+".Lawrence County, Illinois","14,891","14,813",-0.52
+".Lee County, Illinois","33,938","33,654",-0.84
+".Livingston County, Illinois","35,517","35,320",-0.55
+".Logan County, Illinois","27,666","27,590",-0.27
+".McDonough County, Illinois","26,914","26,839",-0.28
+".McHenry County, Illinois","311,558","312,800",0.40
+".McLean County, Illinois","170,918","170,441",-0.28
+".Macon County, Illinois","101,333","100,591",-0.73
+".Macoupin County, Illinois","44,123","44,018",-0.24
+".Madison County, Illinois","263,572","262,752",-0.31
+".Marion County, Illinois","36,905","36,673",-0.63
+".Marshall County, Illinois","11,671","11,683",0.10
+".Mason County, Illinois","12,699","12,523",-1.39
+".Massac County, Illinois","13,827","13,661",-1.20
+".Menard County, Illinois","12,072","11,954",-0.98
+".Mercer County, Illinois","15,533","15,487",-0.30
+".Monroe County, Illinois","35,001","34,957",-0.13
+".Montgomery County, Illinois","27,901","27,663",-0.85
+".Morgan County, Illinois","32,298","32,140",-0.49
+".Moultrie County, Illinois","14,375","14,342",-0.23
+".Ogle County, Illinois","51,345","51,265",-0.16
+".Peoria County, Illinois","178,000","177,513",-0.27
+".Perry County, Illinois","20,512","20,503",-0.04
+".Piatt County, Illinois","16,675","16,714",0.23
+".Pike County, Illinois","14,499","14,342",-1.08
+".Pope County, Illinois","3,746","3,707",-1.04
+".Pulaski County, Illinois","4,950","4,911",-0.79
+".Putnam County, Illinois","5,553","5,561",0.14
+".Randolph County, Illinois","30,026","29,815",-0.70
+".Richland County, Illinois","15,555","15,488",-0.43
+".Rock Island County, Illinois","141,559","141,236",-0.23
+".St. Clair County, Illinois","252,265","251,018",-0.49
+".Saline County, Illinois","23,052","22,873",-0.78
+".Sangamon County, Illinois","194,151","193,491",-0.34
+".Schuyler County, Illinois","6,753","6,733",-0.30
+".Scott County, Illinois","4,771","4,710",-1.28
+".Shelby County, Illinois","20,710","20,568",-0.69
+".Stark County, Illinois","5,313","5,218",-1.79
+".Stephenson County, Illinois","43,556","43,105",-1.04
+".Tazewell County, Illinois","129,610","129,541",-0.05
+".Union County, Illinois","16,772","16,667",-0.63
+".Vermilion County, Illinois","72,103","71,652",-0.63
+".Wabash County, Illinois","11,040","10,942",-0.89
+".Warren County, Illinois","16,360","16,185",-1.07
+".Washington County, Illinois","13,623","13,536",-0.64
+".Wayne County, Illinois","15,843","15,761",-0.52
+".White County, Illinois","13,595","13,401",-1.43
+".Whiteside County, Illinois","54,555","54,498",-0.10
+".Will County, Illinois","698,046","700,728",0.38
+".Williamson County, Illinois","66,544","66,706",0.24
+".Winnebago County, Illinois","281,542","280,922",-0.22
+".Woodford County, Illinois","38,177","38,285",0.28
+".Adams County, Indiana","36,151","36,288",0.38
+".Allen County, Indiana","391,644","394,545",0.74
+".Bartholomew County, Indiana","83,394","84,003",0.73
+".Benton County, Indiana","8,672","8,729",0.66
+".Blackford County, Indiana","11,919","11,893",-0.22
+".Boone County, Indiana","74,309","76,120",2.44
+".Brown County, Indiana","15,587","15,653",0.42
+".Carroll County, Indiana","20,514","20,525",0.05
+".Cass County, Indiana","37,537","37,666",0.34
+".Clark County, Indiana","124,222","125,467",1.00
+".Clay County, Indiana","26,410","26,460",0.19
+".Clinton County, Indiana","32,769","32,730",-0.12
+".Crawford County, Indiana","10,517","10,438",-0.75
+".Daviess County, Indiana","33,496","33,656",0.48
+".Dearborn County, Indiana","50,900","51,215",0.62
+".Decatur County, Indiana","26,454","26,399",-0.21
+".DeKalb County, Indiana","43,813","44,198",0.88
+".Delaware County, Indiana","112,163","112,321",0.14
+".Dubois County, Indiana","43,492","43,546",0.12
+".Elkhart County, Indiana","206,873","206,409",-0.22
+".Fayette County, Indiana","23,389","23,362",-0.12
+".Floyd County, Indiana","80,621","80,809",0.23
+".Fountain County, Indiana","16,620","16,731",0.67
+".Franklin County, Indiana","23,083","23,096",0.06
+".Fulton County, Indiana","20,368","20,358",-0.05
+".Gibson County, Indiana","33,002","32,904",-0.30
+".Grant County, Indiana","65,993","66,200",0.31
+".Greene County, Indiana","31,071","31,196",0.40
+".Hamilton County, Indiana","365,463","371,645",1.69
+".Hancock County, Indiana","83,117","86,166",3.67
+".Harrison County, Indiana","39,790","40,006",0.54
+".Hendricks County, Indiana","183,119","186,387",1.78
+".Henry County, Indiana","48,815","48,929",0.23
+".Howard County, Indiana","83,546","83,831",0.34
+".Huntington County, Indiana","36,800","36,781",-0.05
+".Jackson County, Indiana","46,230","46,460",0.50
+".Jasper County, Indiana","33,345","33,535",0.57
+".Jay County, Indiana","20,118","20,032",-0.43
+".Jefferson County, Indiana","32,936","33,056",0.36
+".Jennings County, Indiana","27,484","27,622",0.50
+".Johnson County, Indiana","165,686","167,819",1.29
+".Knox County, Indiana","35,876","36,070",0.54
+".Kosciusko County, Indiana","80,564","80,364",-0.25
+".LaGrange County, Indiana","40,854","40,907",0.13
+".Lake County, Indiana","499,657","500,598",0.19
+".LaPorte County, Indiana","111,822","111,706",-0.10
+".Lawrence County, Indiana","45,231","45,084",-0.32
+".Madison County, Indiana","131,383","132,504",0.85
+".Marion County, Indiana","969,223","968,460",-0.08
+".Marshall County, Indiana","46,378","46,352",-0.06
+".Martin County, Indiana","9,827","9,897",0.71
+".Miami County, Indiana","35,546","35,402",-0.41
+".Monroe County, Indiana","139,621","139,342",-0.20
+".Montgomery County, Indiana","38,319","38,573",0.66
+".Morgan County, Indiana","72,260","73,227",1.34
+".Newton County, Indiana","13,839","13,960",0.87
+".Noble County, Indiana","47,234","47,430",0.41
+".Ohio County, Indiana","6,097","6,004",-1.53
+".Orange County, Indiana","19,601","19,638",0.19
+".Owen County, Indiana","21,487","21,532",0.21
+".Parke County, Indiana","16,367","16,484",0.71
+".Perry County, Indiana","19,207","19,209",0.01
+".Pike County, Indiana","12,143","12,106",-0.30
+".Porter County, Indiana","174,848","175,335",0.28
+".Posey County, Indiana","25,098","25,040",-0.23
+".Pulaski County, Indiana","12,449","12,385",-0.51
+".Putnam County, Indiana","37,294","37,567",0.73
+".Randolph County, Indiana","24,350","24,216",-0.55
+".Ripley County, Indiana","29,030","29,227",0.68
+".Rush County, Indiana","16,672","16,847",1.05
+".St. Joseph County, Indiana","272,282","272,848",0.21
+".Scott County, Indiana","24,500","24,657",0.64
+".Shelby County, Indiana","45,189","45,231",0.09
+".Spencer County, Indiana","19,849","19,910",0.31
+".Starke County, Indiana","23,203","23,206",0.01
+".Steuben County, Indiana","34,772","34,917",0.42
+".Sullivan County, Indiana","20,671","20,757",0.42
+".Switzerland County, Indiana","10,009","10,019",0.10
+".Tippecanoe County, Indiana","188,237","188,792",0.29
+".Tipton County, Indiana","15,325","15,256",-0.45
+".Union County, Indiana","6,967","6,973",0.09
+".Vanderburgh County, Indiana","179,563","179,810",0.14
+".Vermillion County, Indiana","15,433","15,417",-0.10
+".Vigo County, Indiana","106,082","106,153",0.07
+".Wabash County, Indiana","30,842","30,670",-0.56
+".Warren County, Indiana","8,488","8,518",0.35
+".Warrick County, Indiana","65,231","65,867",0.97
+".Washington County, Indiana","28,171","28,205",0.12
+".Wayne County, Indiana","66,216","66,127",-0.13
+".Wells County, Indiana","28,298","28,555",0.91
+".White County, Indiana","24,660","24,917",1.04
+".Whitley County, Indiana","34,577","34,742",0.48
+".Adair County, Iowa","7,457","7,389",-0.91
+".Adams County, Iowa","3,601","3,544",-1.58
+".Allamakee County, Iowa","14,018","14,074",0.40
+".Appanoose County, Iowa","12,141","12,119",-0.18
+".Audubon County, Iowa","5,575","5,534",-0.74
+".Benton County, Iowa","25,742","25,796",0.21
+".Black Hawk County, Iowa","130,052","130,471",0.32
+".Boone County, Iowa","26,579","26,590",0.04
+".Bremer County, Iowa","25,254","25,307",0.21
+".Buchanan County, Iowa","20,689","20,691",0.01
+".Buena Vista County, Iowa","20,644","20,567",-0.37
+".Butler County, Iowa","14,246","14,172",-0.52
+".Calhoun County, Iowa","9,725","9,763",0.39
+".Carroll County, Iowa","20,541","20,522",-0.09
+".Cass County, Iowa","13,137","13,130",-0.05
+".Cedar County, Iowa","18,353","18,302",-0.28
+".Cerro Gordo County, Iowa","42,426","42,406",-0.05
+".Cherokee County, Iowa","11,490","11,605",1.00
+".Chickasaw County, Iowa","11,728","11,658",-0.60
+".Clarke County, Iowa","9,643","9,588",-0.57
+".Clay County, Iowa","16,507","16,511",0.02
+".Clayton County, Iowa","17,057","16,969",-0.52
+".Clinton County, Iowa","46,255","46,158",-0.21
+".Crawford County, Iowa","16,129","16,013",-0.72
+".Dallas County, Iowa","108,146","111,092",2.72
+".Davis County, Iowa","9,147","9,169",0.24
+".Decatur County, Iowa","7,695","7,665",-0.39
+".Delaware County, Iowa","17,607","17,600",-0.04
+".Des Moines County, Iowa","38,242","38,253",0.03
+".Dickinson County, Iowa","18,048","18,056",0.04
+".Dubuque County, Iowa","98,715","98,887",0.17
+".Emmet County, Iowa","9,214","9,229",0.16
+".Fayette County, Iowa","19,266","19,210",-0.29
+".Floyd County, Iowa","15,348","15,326",-0.14
+".Franklin County, Iowa","9,946","9,875",-0.71
+".Fremont County, Iowa","6,475","6,458",-0.26
+".Greene County, Iowa","8,710","8,584",-1.45
+".Grundy County, Iowa","12,355","12,384",0.23
+".Guthrie County, Iowa","10,681","10,722",0.38
+".Hamilton County, Iowa","14,803","14,729",-0.50
+".Hancock County, Iowa","10,651","10,615",-0.34
+".Hardin County, Iowa","16,614","16,463",-0.91
+".Harrison County, Iowa","14,680","14,670",-0.07
+".Henry County, Iowa","20,253","19,547",-3.49
+".Howard County, Iowa","9,509","9,376",-1.40
+".Humboldt County, Iowa","9,521","9,500",-0.22
+".Ida County, Iowa","6,905","6,833",-1.04
+".Iowa County, Iowa","16,497","16,381",-0.70
+".Jackson County, Iowa","19,346","19,342",-0.02
+".Jasper County, Iowa","37,949","37,919",-0.08
+".Jefferson County, Iowa","15,668","15,440",-1.46
+".Johnson County, Iowa","156,915","157,528",0.39
+".Jones County, Iowa","20,949","20,900",-0.23
+".Keokuk County, Iowa","9,883","9,914",0.31
+".Kossuth County, Iowa","14,465","14,396",-0.48
+".Lee County, Iowa","32,829","32,565",-0.80
+".Linn County, Iowa","228,940","228,972",0.01
+".Louisa County, Iowa","10,617","10,513",-0.98
+".Lucas County, Iowa","8,702","8,747",0.52
+".Lyon County, Iowa","12,177","12,324",1.21
+".Madison County, Iowa","17,040","16,971",-0.40
+".Mahaska County, Iowa","21,971","21,874",-0.44
+".Marion County, Iowa","33,630","33,770",0.42
+".Marshall County, Iowa","39,821","40,014",0.48
+".Mills County, Iowa","14,535","14,633",0.67
+".Mitchell County, Iowa","10,544","10,518",-0.25
+".Monona County, Iowa","8,506","8,493",-0.15
+".Monroe County, Iowa","7,530","7,504",-0.35
+".Montgomery County, Iowa","10,210","10,139",-0.70
+".Muscatine County, Iowa","42,395","42,218",-0.42
+".O'Brien County, Iowa","14,085","14,012",-0.52
+".Osceola County, Iowa","6,072","5,978",-1.55
+".Page County, Iowa","15,176","15,014",-1.07
+".Palo Alto County, Iowa","8,790","8,810",0.23
+".Plymouth County, Iowa","25,722","25,722",0.00
+".Pocahontas County, Iowa","7,073","6,976",-1.37
+".Polk County, Iowa","501,184","505,255",0.81
+".Pottawattamie County, Iowa","93,065","93,179",0.12
+".Poweshiek County, Iowa","18,518","18,453",-0.35
+".Ringgold County, Iowa","4,688","4,642",-0.98
+".Sac County, Iowa","9,689","9,686",-0.03
+".Scott County, Iowa","173,751","174,270",0.30
+".Shelby County, Iowa","11,711","11,806",0.81
+".Sioux County, Iowa","36,127","36,246",0.33
+".Story County, Iowa","98,257","98,566",0.31
+".Tama County, Iowa","16,943","16,833",-0.65
+".Taylor County, Iowa","5,875","5,924",0.83
+".Union County, Iowa","11,903","11,906",0.03
+".Van Buren County, Iowa","7,252","7,266",0.19
+".Wapello County, Iowa","35,081","35,166",0.24
+".Warren County, Iowa","54,303","55,205",1.66
+".Washington County, Iowa","22,542","22,560",0.08
+".Wayne County, Iowa","6,490","6,557",1.03
+".Webster County, Iowa","36,652","36,485",-0.46
+".Winnebago County, Iowa","10,639","10,571",-0.64
+".Winneshiek County, Iowa","19,902","19,815",-0.44
+".Woodbury County, Iowa","105,558","105,951",0.37
+".Worth County, Iowa","7,311","7,297",-0.19
+".Wright County, Iowa","12,695","12,656",-0.31
+".Allen County, Kansas","12,489","12,412",-0.62
+".Anderson County, Kansas","7,798","7,838",0.51
+".Atchison County, Kansas","16,053","16,016",-0.23
+".Barber County, Kansas","4,124","4,071",-1.29
+".Barton County, Kansas","25,058","24,899",-0.63
+".Bourbon County, Kansas","14,443","14,408",-0.24
+".Brown County, Kansas","9,373","9,250",-1.31
+".Butler County, Kansas","68,289","68,632",0.50
+".Chase County, Kansas","2,568","2,579",0.43
+".Chautauqua County, Kansas","3,387","3,347",-1.18
+".Cherokee County, Kansas","19,025","19,054",0.15
+".Cheyenne County, Kansas","2,618","2,636",0.69
+".Clark County, Kansas","1,939","1,847",-4.74
+".Clay County, Kansas","8,041","8,007",-0.42
+".Cloud County, Kansas","8,934","8,854",-0.90
+".Coffey County, Kansas","8,252","8,251",-0.01
+".Comanche County, Kansas","1,690","1,655",-2.07
+".Cowley County, Kansas","34,423","34,157",-0.77
+".Crawford County, Kansas","39,145","38,764",-0.97
+".Decatur County, Kansas","2,689","2,712",0.86
+".Dickinson County, Kansas","18,355","18,445",0.49
+".Doniphan County, Kansas","7,475","7,493",0.24
+".Douglas County, Kansas","120,007","120,553",0.45
+".Edwards County, Kansas","2,760","2,733",-0.98
+".Elk County, Kansas","2,448","2,467",0.78
+".Ellis County, Kansas","28,840","28,810",-0.10
+".Ellsworth County, Kansas","6,383","6,357",-0.41
+".Finney County, Kansas","37,639","37,466",-0.46
+".Ford County, Kansas","33,924","33,980",0.17
+".Franklin County, Kansas","25,959","26,125",0.64
+".Geary County, Kansas","35,529","35,047",-1.36
+".Gove County, Kansas","2,742","2,735",-0.26
+".Graham County, Kansas","2,397","2,376",-0.88
+".Grant County, Kansas","7,250","7,147",-1.42
+".Gray County, Kansas","5,711","5,743",0.56
+".Greeley County, Kansas","1,232","1,181",-4.14
+".Greenwood County, Kansas","5,908","5,870",-0.64
+".Hamilton County, Kansas","2,452","2,437",-0.61
+".Harper County, Kansas","5,400","5,435",0.65
+".Harvey County, Kansas","33,671","33,504",-0.50
+".Haskell County, Kansas","3,595","3,630",0.97
+".Hodgeman County, Kansas","1,697","1,655",-2.47
+".Jackson County, Kansas","13,292","13,368",0.57
+".Jefferson County, Kansas","18,354","18,327",-0.15
+".Jewell County, Kansas","2,885","2,847",-1.32
+".Johnson County, Kansas","619,091","622,237",0.51
+".Kearny County, Kansas","3,865","3,823",-1.09
+".Kingman County, Kansas","7,174","7,066",-1.51
+".Kiowa County, Kansas","2,405","2,374",-1.29
+".Labette County, Kansas","19,702","19,728",0.13
+".Lane County, Kansas","1,544","1,529",-0.97
+".Leavenworth County, Kansas","82,922","83,518",0.72
+".Lincoln County, Kansas","2,911","2,920",0.31
+".Linn County, Kansas","9,777","9,860",0.85
+".Logan County, Kansas","2,703","2,665",-1.41
+".Lyon County, Kansas","32,031","32,172",0.44
+".McPherson County, Kansas","30,063","30,091",0.09
+".Marion County, Kansas","11,783","11,690",-0.79
+".Marshall County, Kansas","9,992","9,933",-0.59
+".Meade County, Kansas","3,913","3,911",-0.05
+".Miami County, Kansas","34,791","35,320",1.52
+".Mitchell County, Kansas","5,730","5,719",-0.19
+".Montgomery County, Kansas","30,853","30,568",-0.92
+".Morris County, Kansas","5,400","5,334",-1.22
+".Morton County, Kansas","2,601","2,580",-0.81
+".Nemaha County, Kansas","10,164","10,114",-0.49
+".Neosho County, Kansas","15,583","15,420",-1.05
+".Ness County, Kansas","2,657","2,618",-1.47
+".Norton County, Kansas","5,325","5,330",0.09
+".Osage County, Kansas","15,705","15,824",0.76
+".Osborne County, Kansas","3,481","3,427",-1.55
+".Ottawa County, Kansas","5,806","5,818",0.21
+".Pawnee County, Kansas","6,188","6,126",-1.00
+".Phillips County, Kansas","4,783","4,761",-0.46
+".Pottawatomie County, Kansas","26,292","26,382",0.34
+".Pratt County, Kansas","9,073","9,082",0.10
+".Rawlins County, Kansas","2,523","2,463",-2.38
+".Reno County, Kansas","61,552","61,497",-0.09
+".Republic County, Kansas","4,653","4,627",-0.56
+".Rice County, Kansas","9,370","9,260",-1.17
+".Riley County, Kansas","71,563","71,402",-0.22
+".Rooks County, Kansas","4,810","4,778",-0.67
+".Rush County, Kansas","2,941","2,830",-3.77
+".Russell County, Kansas","6,733","6,723",-0.15
+".Saline County, Kansas","53,389","53,098",-0.55
+".Scott County, Kansas","5,007","4,922",-1.70
+".Sedgwick County, Kansas","525,368","528,469",0.59
+".Seward County, Kansas","21,345","21,067",-1.30
+".Shawnee County, Kansas","177,537","177,746",0.12
+".Sheridan County, Kansas","2,439","2,423",-0.66
+".Sherman County, Kansas","5,876","5,844",-0.54
+".Smith County, Kansas","3,572","3,590",0.50
+".Stafford County, Kansas","3,971","3,909",-1.56
+".Stanton County, Kansas","1,967","1,901",-3.36
+".Stevens County, Kansas","5,166","5,077",-1.72
+".Sumner County, Kansas","22,359","22,334",-0.11
+".Thomas County, Kansas","7,908","7,865",-0.54
+".Trego County, Kansas","2,746","2,731",-0.55
+".Wabaunsee County, Kansas","7,009","7,057",0.68
+".Wallace County, Kansas","1,493","1,509",1.07
+".Washington County, Kansas","5,493","5,504",0.20
+".Wichita County, Kansas","2,078","2,082",0.19
+".Wilson County, Kansas","8,554","8,382",-2.01
+".Woodson County, Kansas","3,117","3,115",-0.06
+".Wyandotte County, Kansas","165,626","165,281",-0.21
+".Adair County, Kentucky","19,097","19,264",0.87
+".Allen County, Kentucky","21,283","21,788",2.37
+".Anderson County, Kentucky","24,273","24,613",1.40
+".Ballard County, Kentucky","7,642","7,582",-0.79
+".Barren County, Kentucky","44,872","45,008",0.30
+".Bath County, Kentucky","12,828","12,975",1.15
+".Bell County, Kentucky","23,611","23,317",-1.25
+".Boone County, Kentucky","139,045","140,496",1.04
+".Bourbon County, Kentucky","20,109","20,134",0.12
+".Boyd County, Kentucky","48,059","47,826",-0.48
+".Boyle County, Kentucky","30,851","30,988",0.44
+".Bracken County, Kentucky","8,435","8,426",-0.11
+".Breathitt County, Kentucky","13,358","12,953",-3.03
+".Breckinridge County, Kentucky","20,961","21,124",0.78
+".Bullitt County, Kentucky","83,774","84,863",1.30
+".Butler County, Kentucky","12,365","12,375",0.08
+".Caldwell County, Kentucky","12,608","12,551",-0.45
+".Calloway County, Kentucky","38,093","38,280",0.49
+".Campbell County, Kentucky","93,272","93,702",0.46
+".Carlisle County, Kentucky","4,719","4,704",-0.32
+".Carroll County, Kentucky","10,939","10,987",0.44
+".Carter County, Kentucky","26,343","26,366",0.09
+".Casey County, Kentucky","15,911","15,918",0.04
+".Christian County, Kentucky","72,286","72,032",-0.35
+".Clark County, Kentucky","36,992","37,304",0.84
+".Clay County, Kentucky","19,874","19,648",-1.14
+".Clinton County, Kentucky","9,139","9,148",0.10
+".Crittenden County, Kentucky","8,991","8,974",-0.19
+".Cumberland County, Kentucky","5,969","6,000",0.52
+".Daviess County, Kentucky","103,189","103,458",0.26
+".Edmonson County, Kentucky","12,302","12,448",1.19
+".Elliott County, Kentucky","7,292","7,245",-0.64
+".Estill County, Kentucky","14,024","13,936",-0.63
+".Fayette County, Kentucky","320,281","320,154",-0.04
+".Fleming County, Kentucky","15,278","15,442",1.07
+".Floyd County, Kentucky","34,918","34,423",-1.42
+".Franklin County, Kentucky","51,548","51,644",0.19
+".Fulton County, Kentucky","6,371","6,338",-0.52
+".Gallatin County, Kentucky","8,773","8,792",0.22
+".Garrard County, Kentucky","17,566","17,829",1.50
+".Grant County, Kentucky","25,474","25,619",0.57
+".Graves County, Kentucky","36,493","36,461",-0.09
+".Grayson County, Kentucky","26,643","26,825",0.68
+".Green County, Kentucky","11,392","11,468",0.67
+".Greenup County, Kentucky","35,375","35,221",-0.44
+".Hancock County, Kentucky","9,027","8,920",-1.19
+".Hardin County, Kentucky","111,743","112,273",0.47
+".Harlan County, Kentucky","25,652","25,324",-1.28
+".Harrison County, Kentucky","19,105","19,415",1.62
+".Hart County, Kentucky","19,594","19,724",0.66
+".Henderson County, Kentucky","44,032","44,119",0.20
+".Henry County, Kentucky","15,760","15,973",1.35
+".Hickman County, Kentucky","4,434","4,447",0.29
+".Hopkins County, Kentucky","44,926","44,929",0.01
+".Jackson County, Kentucky","12,989","13,104",0.89
+".Jefferson County, Kentucky","773,095","772,144",-0.12
+".Jessamine County, Kentucky","54,236","55,017",1.44
+".Johnson County, Kentucky","22,235","22,116",-0.54
+".Kenton County, Kentucky","170,280","171,321",0.61
+".Knott County, Kentucky","13,847","13,659",-1.36
+".Knox County, Kentucky","29,773","29,794",0.07
+".Larue County, Kentucky","15,150","15,303",1.01
+".Laurel County, Kentucky","62,879","63,296",0.66
+".Lawrence County, Kentucky","16,097","16,000",-0.60
+".Lee County, Kentucky","7,273","7,293",0.27
+".Leslie County, Kentucky","10,049","9,864",-1.84
+".Letcher County, Kentucky","20,827","20,423",-1.94
+".Lewis County, Kentucky","12,937","12,973",0.28
+".Lincoln County, Kentucky","24,419","24,776",1.46
+".Livingston County, Kentucky","8,968","8,892",-0.85
+".Logan County, Kentucky","27,856","28,283",1.53
+".Lyon County, Kentucky","9,099","9,187",0.97
+".McCracken County, Kentucky","67,366","67,428",0.09
+".McCreary County, Kentucky","16,783","17,050",1.59
+".McLean County, Kentucky","9,107","9,054",-0.58
+".Madison County, Kentucky","95,151","96,735",1.66
+".Magoffin County, Kentucky","11,348","11,228",-1.06
+".Marion County, Kentucky","19,748","19,834",0.44
+".Marshall County, Kentucky","31,790","31,744",-0.14
+".Martin County, Kentucky","11,096","10,928",-1.51
+".Mason County, Kentucky","16,903","16,841",-0.37
+".Meade County, Kentucky","30,010","30,131",0.40
+".Menifee County, Kentucky","6,236","6,286",0.80
+".Mercer County, Kentucky","22,900","23,097",0.86
+".Metcalfe County, Kentucky","10,408","10,482",0.71
+".Monroe County, Kentucky","11,353","11,306",-0.41
+".Montgomery County, Kentucky","28,357","28,527",0.60
+".Morgan County, Kentucky","14,146","14,283",0.97
+".Muhlenberg County, Kentucky","30,696","30,568",-0.42
+".Nelson County, Kentucky","47,359","47,730",0.78
+".Nicholas County, Kentucky","7,786","7,686",-1.28
+".Ohio County, Kentucky","23,496","23,626",0.55
+".Oldham County, Kentucky","69,444","70,183",1.06
+".Owen County, Kentucky","11,294","11,313",0.17
+".Owsley County, Kentucky","3,958","4,001",1.09
+".Pendleton County, Kentucky","14,703","14,810",0.73
+".Perry County, Kentucky","27,367","27,133",-0.86
+".Pike County, Kentucky","56,317","55,973",-0.61
+".Powell County, Kentucky","13,041","12,972",-0.53
+".Pulaski County, Kentucky","65,767","66,191",0.64
+".Robertson County, Kentucky","2,247","2,313",2.94
+".Rockcastle County, Kentucky","16,225","16,190",-0.22
+".Rowan County, Kentucky","24,372","24,409",0.15
+".Russell County, Kentucky","18,185","18,279",0.52
+".Scott County, Kentucky","59,077","60,168",1.85
+".Shelby County, Kentucky","48,842","49,515",1.38
+".Simpson County, Kentucky","19,948","20,195",1.24
+".Spencer County, Kentucky","20,212","20,531",1.58
+".Taylor County, Kentucky","26,396","26,443",0.18
+".Todd County, Kentucky","12,394","12,494",0.81
+".Trigg County, Kentucky","14,348","14,369",0.15
+".Trimble County, Kentucky","8,527","8,607",0.94
+".Union County, Kentucky","13,104","13,106",0.02
+".Warren County, Kentucky","140,046","142,229",1.56
+".Washington County, Kentucky","12,060","12,267",1.72
+".Wayne County, Kentucky","19,634","19,580",-0.28
+".Webster County, Kentucky","12,739","12,726",-0.10
+".Whitley County, Kentucky","36,908","36,825",-0.22
+".Wolfe County, Kentucky","6,416","6,282",-2.09
+".Woodford County, Kentucky","27,053","27,268",0.79
+".Acadia Parish, Louisiana","56,725","56,489",-0.42
+".Allen Parish, Louisiana","22,287","22,112",-0.79
+".Ascension Parish, Louisiana","130,485","131,632",0.88
+".Assumption Parish, Louisiana","20,463","20,160",-1.48
+".Avoyelles Parish, Louisiana","38,715","38,408",-0.79
+".Beauregard Parish, Louisiana","36,624","36,827",0.55
+".Bienville Parish, Louisiana","12,612","12,366",-1.95
+".Bossier Parish, Louisiana","129,153","129,795",0.50
+".Caddo Parish, Louisiana","228,934","226,386",-1.11
+".Calcasieu Parish, Louisiana","202,288","203,761",0.73
+".Caldwell Parish, Louisiana","9,493","9,389",-1.10
+".Cameron Parish, Louisiana","4,896","4,768",-2.61
+".Catahoula Parish, Louisiana","8,604","8,414",-2.21
+".Claiborne Parish, Louisiana","13,849","13,670",-1.29
+".Concordia Parish, Louisiana","18,026","17,688",-1.88
+".De Soto Parish, Louisiana","26,856","27,114",0.96
+".East Baton Rouge Parish, Louisiana","450,091","448,467",-0.36
+".East Carroll Parish, Louisiana","6,939","6,829",-1.59
+".East Feliciana Parish, Louisiana","19,208","19,229",0.11
+".Evangeline Parish, Louisiana","32,033","31,754",-0.87
+".Franklin Parish, Louisiana","19,358","19,285",-0.38
+".Grant Parish, Louisiana","22,040","21,911",-0.59
+".Iberia Parish, Louisiana","68,320","67,659",-0.97
+".Iberville Parish, Louisiana","29,613","29,617",0.01
+".Jackson Parish, Louisiana","14,816","14,746",-0.47
+".Jefferson Parish, Louisiana","426,030","421,777",-1.00
+".Jefferson Davis Parish, Louisiana","31,929","31,553",-1.18
+".Lafayette Parish, Louisiana","247,714","249,750",0.82
+".Lafourche Parish, Louisiana","95,751","95,056",-0.73
+".LaSalle Parish, Louisiana","14,821","14,800",-0.14
+".Lincoln Parish, Louisiana","47,980","47,962",-0.04
+".Livingston Parish, Louisiana","148,056","150,145",1.41
+".Madison Parish, Louisiana","9,480","9,246",-2.47
+".Morehouse Parish, Louisiana","24,414","23,955",-1.88
+".Natchitoches Parish, Louisiana","36,648","36,291",-0.97
+".Orleans Parish, Louisiana","369,917","364,136",-1.56
+".Ouachita Parish, Louisiana","157,704","157,568",-0.09
+".Plaquemines Parish, Louisiana","22,618","22,386",-1.03
+".Pointe Coupee Parish, Louisiana","20,212","20,000",-1.05
+".Rapides Parish, Louisiana","127,028","126,260",-0.60
+".Red River Parish, Louisiana","7,465","7,356",-1.46
+".Richland Parish, Louisiana","19,784","19,712",-0.36
+".Sabine Parish, Louisiana","21,974","21,906",-0.31
+".St. Bernard Parish, Louisiana","44,419","44,463",0.10
+".St. Charles Parish, Louisiana","51,058","50,620",-0.86
+".St. Helena Parish, Louisiana","10,789","10,774",-0.14
+".St. James Parish, Louisiana","19,388","19,191",-1.02
+".St. John the Baptist Parish, Louisiana","39,955","39,592",-0.91
+".St. Landry Parish, Louisiana","81,679","81,464",-0.26
+".St. Martin Parish, Louisiana","51,249","51,057",-0.37
+".St. Mary Parish, Louisiana","47,819","47,055",-1.60
+".St. Tammany Parish, Louisiana","273,237","275,583",0.86
+".Tangipahoa Parish, Louisiana","136,799","138,064",0.92
+".Tensas Parish, Louisiana","3,814","3,764",-1.31
+".Terrebonne Parish, Louisiana","104,632","103,616",-0.97
+".Union Parish, Louisiana","20,729","20,650",-0.38
+".Vermilion Parish, Louisiana","56,953","56,992",0.07
+".Vernon Parish, Louisiana","46,870","46,250",-1.32
+".Washington Parish, Louisiana","44,991","44,865",-0.28
+".Webster Parish, Louisiana","35,527","35,238",-0.81
+".West Baton Rouge Parish, Louisiana","28,034","28,266",0.83
+".West Carroll Parish, Louisiana","9,481","9,323",-1.67
+".West Feliciana Parish, Louisiana","15,396","15,371",-0.16
+".Winn Parish, Louisiana","13,251","13,216",-0.26
+".Androscoggin County, Maine","113,225","113,765",0.48
+".Aroostook County, Maine","67,322","67,351",0.04
+".Cumberland County, Maine","308,837","310,230",0.45
+".Franklin County, Maine","30,595","30,828",0.76
+".Hancock County, Maine","56,549","56,526",-0.04
+".Kennebec County, Maine","126,535","127,259",0.57
+".Knox County, Maine","41,179","40,977",-0.49
+".Lincoln County, Maine","36,285","36,507",0.61
+".Oxford County, Maine","59,458","59,905",0.75
+".Penobscot County, Maine","154,728","155,312",0.38
+".Piscataquis County, Maine","17,403","17,486",0.48
+".Sagadahoc County, Maine","37,372","37,513",0.38
+".Somerset County, Maine","51,118","51,302",0.36
+".Waldo County, Maine","40,255","40,620",0.91
+".Washington County, Maine","31,527","31,555",0.09
+".York County, Maine","216,950","218,586",0.75
+".Allegany County, Maryland","67,266","67,273",0.01
+".Anne Arundel County, Maryland","593,347","594,582",0.21
+".Baltimore County, Maryland","845,986","844,703",-0.15
+".Calvert County, Maryland","94,559","94,728",0.18
+".Caroline County, Maryland","33,427","33,593",0.50
+".Carroll County, Maryland","175,472","176,639",0.67
+".Cecil County, Maryland","104,870","105,672",0.76
+".Charles County, Maryland","170,111","171,973",1.09
+".Dorchester County, Maryland","32,583","32,879",0.91
+".Frederick County, Maryland","287,540","293,391",2.03
+".Garrett County, Maryland","28,588","28,423",-0.58
+".Harford County, Maryland","263,815","264,644",0.31
+".Howard County, Maryland","335,366","336,001",0.19
+".Kent County, Maryland","19,295","19,303",0.04
+".Montgomery County, Maryland","1,053,067","1,058,474",0.51
+".Prince George's County, Maryland","946,980","947,430",0.05
+".Queen Anne's County, Maryland","51,720","52,508",1.52
+".St. Mary's County, Maryland","114,783","115,281",0.43
+".Somerset County, Maryland","24,608","24,910",1.23
+".Talbot County, Maryland","37,814","37,823",0.02
+".Washington County, Maryland","155,257","155,813",0.36
+".Wicomico County, Maryland","104,486","104,800",0.30
+".Worcester County, Maryland","53,934","54,171",0.44
+".Baltimore city, Maryland","569,107","565,239",-0.68
+".Barnstable County, Massachusetts","232,078","231,735",-0.15
+".Berkshire County, Massachusetts","127,547","126,818",-0.57
+".Bristol County, Massachusetts","579,744","581,841",0.36
+".Dukes County, Massachusetts","20,962","20,819",-0.68
+".Essex County, Massachusetts","806,499","810,089",0.45
+".Franklin County, Massachusetts","70,995","70,836",-0.22
+".Hampden County, Massachusetts","460,758","460,291",-0.10
+".Hampshire County, Massachusetts","162,518","162,502",-0.01
+".Middlesex County, Massachusetts","1,616,794","1,623,952",0.44
+".Nantucket County, Massachusetts","14,443","14,444",0.01
+".Norfolk County, Massachusetts","725,469","727,473",0.28
+".Plymouth County, Massachusetts","533,248","535,308",0.39
+".Suffolk County, Massachusetts","768,812","768,425",-0.05
+".Worcester County, Massachusetts","862,873","866,866",0.46
+".Alcona County, Michigan","10,397","10,489",0.88
+".Alger County, Michigan","8,773","8,757",-0.18
+".Allegan County, Michigan","121,290","121,939",0.54
+".Alpena County, Michigan","28,833","28,904",0.25
+".Antrim County, Michigan","24,265","24,409",0.59
+".Arenac County, Michigan","15,123","15,145",0.15
+".Baraga County, Michigan","8,283","8,310",0.33
+".Barry County, Michigan","63,402","63,808",0.64
+".Bay County, Michigan","102,638","102,500",-0.13
+".Benzie County, Michigan","18,327","18,441",0.62
+".Berrien County, Michigan","152,835","152,261",-0.38
+".Branch County, Michigan","44,502","45,215",1.60
+".Calhoun County, Michigan","133,424","133,366",-0.04
+".Cass County, Michigan","51,477","51,642",0.32
+".Charlevoix County, Michigan","26,173","26,159",-0.05
+".Cheboygan County, Michigan","25,964","26,048",0.32
+".Chippewa County, Michigan","36,207","36,264",0.16
+".Clare County, Michigan","31,307","31,316",0.03
+".Clinton County, Michigan","79,652","79,720",0.09
+".Crawford County, Michigan","13,434","13,538",0.77
+".Delta County, Michigan","36,781","36,790",0.02
+".Dickinson County, Michigan","25,943","25,982",0.15
+".Eaton County, Michigan","108,854","108,820",-0.03
+".Emmet County, Michigan","34,215","34,123",-0.27
+".Genesee County, Michigan","401,923","401,522",-0.10
+".Gladwin County, Michigan","25,621","25,853",0.91
+".Gogebic County, Michigan","14,377","14,224",-1.06
+".Grand Traverse County, Michigan","96,298","96,421",0.13
+".Gratiot County, Michigan","41,104","41,368",0.64
+".Hillsdale County, Michigan","45,735","45,587",-0.32
+".Houghton County, Michigan","37,160","37,599",1.18
+".Huron County, Michigan","31,145","30,927",-0.70
+".Ingham County, Michigan","283,477","284,637",0.41
+".Ionia County, Michigan","66,836","66,262",-0.86
+".Iosco County, Michigan","25,473","25,373",-0.39
+".Iron County, Michigan","11,705","11,740",0.30
+".Isabella County, Michigan","64,366","64,118",-0.39
+".Jackson County, Michigan","159,758","159,424",-0.21
+".Kalamazoo County, Michigan","260,892","262,215",0.51
+".Kalkaska County, Michigan","18,244","18,490",1.35
+".Kent County, Michigan","658,920","661,354",0.37
+".Keweenaw County, Michigan","2,155","2,172",0.79
+".Lake County, Michigan","12,651","12,734",0.66
+".Lapeer County, Michigan","88,632","88,977",0.39
+".Leelanau County, Michigan","22,883","23,019",0.59
+".Lenawee County, Michigan","98,280","97,520",-0.77
+".Livingston County, Michigan","196,134","196,757",0.32
+".Luce County, Michigan","6,274","6,435",2.57
+".Mackinac County, Michigan","10,962","10,851",-1.01
+".Macomb County, Michigan","874,235","875,101",0.10
+".Manistee County, Michigan","25,365","25,562",0.78
+".Marquette County, Michigan","66,548","66,999",0.68
+".Mason County, Michigan","29,318","29,159",-0.54
+".Mecosta County, Michigan","40,782","41,099",0.78
+".Menominee County, Michigan","23,225","22,945",-1.21
+".Midland County, Michigan","83,762","84,039",0.33
+".Missaukee County, Michigan","15,232","15,311",0.52
+".Monroe County, Michigan","155,235","155,045",-0.12
+".Montcalm County, Michigan","67,209","68,154",1.41
+".Montmorency County, Michigan","9,557","9,678",1.27
+".Muskegon County, Michigan","175,539","176,564",0.58
+".Newaygo County, Michigan","50,728","51,108",0.75
+".Oakland County, Michigan","1,271,025","1,270,426",-0.05
+".Oceana County, Michigan","26,920","26,981",0.23
+".Ogemaw County, Michigan","20,919","20,990",0.34
+".Ontonagon County, Michigan","5,921","5,906",-0.25
+".Osceola County, Michigan","23,279","23,330",0.22
+".Oscoda County, Michigan","8,391","8,545",1.84
+".Otsego County, Michigan","25,561","25,747",0.73
+".Ottawa County, Michigan","300,918","303,372",0.82
+".Presque Isle County, Michigan","13,343","13,285",-0.43
+".Roscommon County, Michigan","23,682","23,863",0.76
+".Saginaw County, Michigan","188,373","187,782",-0.31
+".St. Clair County, Michigan","159,668","159,874",0.13
+".St. Joseph County, Michigan","60,778","60,878",0.16
+".Sanilac County, Michigan","40,482","40,368",-0.28
+".Schoolcraft County, Michigan","8,174","8,149",-0.31
+".Shiawassee County, Michigan","67,967","68,025",0.09
+".Tuscola County, Michigan","52,908","52,826",-0.15
+".Van Buren County, Michigan","75,669","75,798",0.17
+".Washtenaw County, Michigan","366,504","365,536",-0.26
+".Wayne County, Michigan","1,758,942","1,751,169",-0.44
+".Wexford County, Michigan","34,018","34,122",0.31
+".Aitkin County, Minnesota","16,142","16,102",-0.25
+".Anoka County, Minnesota","369,108","372,441",0.90
+".Becker County, Minnesota","35,363","35,283",-0.23
+".Beltrami County, Minnesota","46,511","46,718",0.45
+".Benton County, Minnesota","41,509","41,600",0.22
+".Big Stone County, Minnesota","5,149","5,105",-0.85
+".Blue Earth County, Minnesota","69,603","70,006",0.58
+".Brown County, Minnesota","25,762","25,628",-0.52
+".Carlton County, Minnesota","36,544","36,825",0.77
+".Carver County, Minnesota","110,120","111,057",0.85
+".Cass County, Minnesota","31,308","31,446",0.44
+".Chippewa County, Minnesota","12,269","12,172",-0.79
+".Chisago County, Minnesota","57,898","58,535",1.10
+".Clay County, Minnesota","65,860","66,258",0.60
+".Clearwater County, Minnesota","8,638","8,644",0.07
+".Cook County, Minnesota","5,721","5,639",-1.43
+".Cottonwood County, Minnesota","11,382","11,319",-0.55
+".Crow Wing County, Minnesota","67,884","68,304",0.62
+".Dakota County, Minnesota","443,272","447,440",0.94
+".Dodge County, Minnesota","20,992","21,088",0.46
+".Douglas County, Minnesota","39,684","39,953",0.68
+".Faribault County, Minnesota","13,930","13,873",-0.41
+".Fillmore County, Minnesota","21,454","21,522",0.32
+".Freeborn County, Minnesota","30,683","30,515",-0.55
+".Goodhue County, Minnesota","48,041","48,035",-0.01
+".Grant County, Minnesota","6,121","6,139",0.29
+".Hennepin County, Minnesota","1,257,066","1,258,713",0.13
+".Houston County, Minnesota","18,727","18,582",-0.77
+".Hubbard County, Minnesota","21,963","22,132",0.77
+".Isanti County, Minnesota","42,711","43,182",1.10
+".Itasca County, Minnesota","45,194","45,365",0.38
+".Jackson County, Minnesota","9,898","9,919",0.21
+".Kanabec County, Minnesota","16,449","16,602",0.93
+".Kandiyohi County, Minnesota","43,771","43,813",0.10
+".Kittson County, Minnesota","4,086","4,060",-0.64
+".Koochiching County, Minnesota","11,848","11,751",-0.82
+".Lac qui Parle County, Minnesota","6,656","6,630",-0.39
+".Lake County, Minnesota","10,912","10,855",-0.52
+".Lake of the Woods County, Minnesota","3,886","3,778",-2.78
+".Le Sueur County, Minnesota","29,124","29,255",0.45
+".Lincoln County, Minnesota","5,576","5,521",-0.99
+".Lyon County, Minnesota","25,433","25,427",-0.02
+".McLeod County, Minnesota","36,734","36,785",0.14
+".Mahnomen County, Minnesota","5,339","5,280",-1.11
+".Marshall County, Minnesota","8,889","8,810",-0.89
+".Martin County, Minnesota","19,656","19,657",0.01
+".Meeker County, Minnesota","23,526","23,490",-0.15
+".Mille Lacs County, Minnesota","27,295","27,427",0.48
+".Morrison County, Minnesota","34,237","34,250",0.04
+".Mower County, Minnesota","40,050","40,058",0.02
+".Murray County, Minnesota","8,040","8,049",0.11
+".Nicollet County, Minnesota","34,343","34,242",-0.29
+".Nobles County, Minnesota","21,958","21,727",-1.05
+".Norman County, Minnesota","6,371","6,329",-0.66
+".Olmsted County, Minnesota","164,036","164,784",0.46
+".Otter Tail County, Minnesota","60,544","60,626",0.14
+".Pennington County, Minnesota","13,816","13,714",-0.74
+".Pine County, Minnesota","29,533","30,197",2.25
+".Pipestone County, Minnesota","9,327","9,245",-0.88
+".Polk County, Minnesota","30,725","30,412",-1.02
+".Pope County, Minnesota","11,420","11,400",-0.18
+".Ramsey County, Minnesota","537,303","536,075",-0.23
+".Red Lake County, Minnesota","3,881","3,911",0.77
+".Redwood County, Minnesota","15,358","15,288",-0.46
+".Renville County, Minnesota","14,473","14,348",-0.86
+".Rice County, Minnesota","67,523","67,948",0.63
+".Rock County, Minnesota","9,554","9,551",-0.03
+".Roseau County, Minnesota","15,334","15,252",-0.53
+".St. Louis County, Minnesota","199,558","200,514",0.48
+".Scott County, Minnesota","154,423","155,814",0.90
+".Sherburne County, Minnesota","100,540","102,206",1.66
+".Sibley County, Minnesota","14,928","15,084",1.05
+".Stearns County, Minnesota","160,242","160,977",0.46
+".Steele County, Minnesota","37,429","37,421",-0.02
+".Stevens County, Minnesota","9,615","9,728",1.18
+".Swift County, Minnesota","9,771","9,719",-0.53
+".Todd County, Minnesota","25,533","25,667",0.52
+".Traverse County, Minnesota","3,242","3,136",-3.27
+".Wabasha County, Minnesota","21,652","21,683",0.14
+".Wadena County, Minnesota","14,236","14,241",0.04
+".Waseca County, Minnesota","18,914","18,981",0.35
+".Washington County, Minnesota","276,169","278,936",1.00
+".Watonwan County, Minnesota","11,106","11,077",-0.26
+".Wilkin County, Minnesota","6,358","6,306",-0.82
+".Winona County, Minnesota","49,469","49,721",0.51
+".Wright County, Minnesota","148,118","151,150",2.05
+".Yellow Medicine County, Minnesota","9,484","9,467",-0.18
+".Adams County, Mississippi","28,517","28,746",0.80
+".Alcorn County, Mississippi","34,147","34,135",-0.04
+".Amite County, Mississippi","12,559","12,442",-0.93
+".Attala County, Mississippi","17,530","17,359",-0.98
+".Benton County, Mississippi","7,556","7,438",-1.56
+".Bolivar County, Mississippi","29,461","28,968",-1.67
+".Calhoun County, Mississippi","12,846","12,685",-1.25
+".Carroll County, Mississippi","9,736","9,535",-2.06
+".Chickasaw County, Mississippi","16,863","16,866",0.02
+".Choctaw County, Mississippi","8,095","8,088",-0.09
+".Claiborne County, Mississippi","8,775","8,617",-1.80
+".Clarke County, Mississippi","15,203","15,228",0.16
+".Clay County, Mississippi","18,311","18,206",-0.57
+".Coahoma County, Mississippi","20,235","20,077",-0.78
+".Copiah County, Mississippi","27,712","27,664",-0.17
+".Covington County, Mississippi","18,142","18,059",-0.46
+".DeSoto County, Mississippi","191,144","193,247",1.10
+".Forrest County, Mississippi","77,976","78,208",0.30
+".Franklin County, Mississippi","7,611","7,610",-0.01
+".George County, Mississippi","25,199","25,619",1.67
+".Greene County, Mississippi","13,566","13,601",0.26
+".Grenada County, Mississippi","21,134","21,065",-0.33
+".Hancock County, Mississippi","46,007","46,159",0.33
+".Harrison County, Mississippi","210,443","210,612",0.08
+".Hinds County, Mississippi","217,555","214,870",-1.23
+".Holmes County, Mississippi","16,111","15,777",-2.07
+".Humphreys County, Mississippi","7,354","7,216",-1.88
+".Issaquena County, Mississippi","1,262","1,256",-0.48
+".Itawamba County, Mississippi","23,971","24,093",0.51
+".Jackson County, Mississippi","144,963","146,389",0.98
+".Jasper County, Mississippi","16,077","16,013",-0.40
+".Jefferson County, Mississippi","7,067","6,941",-1.78
+".Jefferson Davis County, Mississippi","11,079","10,969",-0.99
+".Jones County, Mississippi","66,440","66,250",-0.29
+".Kemper County, Mississippi","8,670","8,584",-0.99
+".Lafayette County, Mississippi","57,730","58,467",1.28
+".Lamar County, Mississippi","65,746","66,217",0.72
+".Lauderdale County, Mississippi","71,142","70,527",-0.86
+".Lawrence County, Mississippi","11,761","11,741",-0.17
+".Leake County, Mississippi","21,203","21,258",0.26
+".Lee County, Mississippi","82,824","82,799",-0.03
+".Leflore County, Mississippi","26,664","26,378",-1.07
+".Lincoln County, Mississippi","34,764","34,702",-0.18
+".Lowndes County, Mississippi","57,671","57,283",-0.67
+".Madison County, Mississippi","111,271","112,511",1.11
+".Marion County, Mississippi","24,166","24,224",0.24
+".Marshall County, Mississippi","33,905","34,123",0.64
+".Monroe County, Mississippi","33,568","33,609",0.12
+".Montgomery County, Mississippi","9,563","9,600",0.39
+".Neshoba County, Mississippi","28,804","28,789",-0.05
+".Newton County, Mississippi","21,023","21,019",-0.02
+".Noxubee County, Mississippi","10,000","9,914",-0.86
+".Oktibbeha County, Mississippi","51,384","51,203",-0.35
+".Panola County, Mississippi","32,592","32,669",0.24
+".Pearl River County, Mississippi","57,183","57,978",1.39
+".Perry County, Mississippi","11,398","11,315",-0.73
+".Pike County, Mississippi","39,687","39,394",-0.74
+".Pontotoc County, Mississippi","31,367","31,535",0.54
+".Prentiss County, Mississippi","24,891","25,135",0.98
+".Quitman County, Mississippi","5,674","5,546",-2.26
+".Rankin County, Mississippi","158,978","160,417",0.91
+".Scott County, Mississippi","27,560","27,507",-0.19
+".Sharkey County, Mississippi","3,462","3,336",-3.64
+".Simpson County, Mississippi","25,623","25,715",0.36
+".Smith County, Mississippi","14,082","14,099",0.12
+".Stone County, Mississippi","18,641","18,756",0.62
+".Sunflower County, Mississippi","24,837","24,468",-1.49
+".Tallahatchie County, Mississippi","12,067","11,837",-1.91
+".Tate County, Mississippi","28,259","28,261",0.01
+".Tippah County, Mississippi","21,438","21,287",-0.70
+".Tishomingo County, Mississippi","18,621","18,507",-0.61
+".Tunica County, Mississippi","9,407","9,234",-1.84
+".Union County, Mississippi","28,132","28,284",0.54
+".Walthall County, Mississippi","13,824","13,863",0.28
+".Warren County, Mississippi","42,635","42,298",-0.79
+".Washington County, Mississippi","42,524","41,946",-1.36
+".Wayne County, Mississippi","19,583","19,703",0.61
+".Webster County, Mississippi","9,944","9,988",0.44
+".Wilkinson County, Mississippi","8,203","8,058",-1.77
+".Winston County, Mississippi","17,504","17,416",-0.50
+".Yalobusha County, Mississippi","12,413","12,386",-0.22
+".Yazoo County, Mississippi","25,893","25,796",-0.37
+".Adair County, Missouri","25,151","25,122",-0.12
+".Andrew County, Missouri","18,016","18,127",0.62
+".Atchison County, Missouri","5,161","5,107",-1.05
+".Audrain County, Missouri","24,482","24,394",-0.36
+".Barry County, Missouri","34,944","35,265",0.92
+".Barton County, Missouri","11,695","11,731",0.31
+".Bates County, Missouri","16,170","16,242",0.45
+".Benton County, Missouri","20,233","20,552",1.58
+".Bollinger County, Missouri","10,531","10,544",0.12
+".Boone County, Missouri","187,721","189,463",0.93
+".Buchanan County, Missouri","82,891","82,956",0.08
+".Butler County, Missouri","42,166","41,948",-0.52
+".Caldwell County, Missouri","8,939","8,955",0.18
+".Callaway County, Missouri","44,723","44,731",0.02
+".Camden County, Missouri","43,760","44,044",0.65
+".Cape Girardeau County, Missouri","82,931","82,984",0.06
+".Carroll County, Missouri","8,420","8,391",-0.34
+".Carter County, Missouri","5,254","5,303",0.93
+".Cass County, Missouri","110,357","111,732",1.25
+".Cedar County, Missouri","14,601","14,672",0.49
+".Chariton County, Missouri","7,395","7,399",0.05
+".Christian County, Missouri","93,122","94,422",1.40
+".Clark County, Missouri","6,715","6,641",-1.10
+".Clay County, Missouri","256,930","259,772",1.11
+".Clinton County, Missouri","21,303","21,548",1.15
+".Cole County, Missouri","76,956","77,278",0.42
+".Cooper County, Missouri","16,763","16,947",1.10
+".Crawford County, Missouri","22,659","22,719",0.26
+".Dade County, Missouri","7,665","7,716",0.67
+".Dallas County, Missouri","17,587","17,768",1.03
+".Daviess County, Missouri","8,457","8,551",1.11
+".DeKalb County, Missouri","11,310","9,899",-12.48
+".Dent County, Missouri","14,488","14,647",1.10
+".Douglas County, Missouri","11,981","12,228",2.06
+".Dunklin County, Missouri","27,411","27,032",-1.38
+".Franklin County, Missouri","105,793","106,404",0.58
+".Gasconade County, Missouri","14,772","14,705",-0.45
+".Gentry County, Missouri","6,274","6,287",0.21
+".Greene County, Missouri","303,197","304,611",0.47
+".Grundy County, Missouri","9,844","9,815",-0.29
+".Harrison County, Missouri","8,217","8,220",0.04
+".Henry County, Missouri","22,421","22,485",0.29
+".Hickory County, Missouri","8,575","8,718",1.67
+".Holt County, Missouri","4,254","4,248",-0.14
+".Howard County, Missouri","10,179","10,101",-0.77
+".Howell County, Missouri","40,623","40,735",0.28
+".Iron County, Missouri","9,413","9,440",0.29
+".Jackson County, Missouri","716,218","718,560",0.33
+".Jasper County, Missouri","124,016","125,056",0.84
+".Jefferson County, Missouri","229,220","231,230",0.88
+".Johnson County, Missouri","54,449","54,962",0.94
+".Knox County, Missouri","3,777","3,723",-1.43
+".Laclede County, Missouri","36,345","36,680",0.92
+".Lafayette County, Missouri","32,967","33,196",0.69
+".Lawrence County, Missouri","38,689","38,872",0.47
+".Lewis County, Missouri","9,886","9,818",-0.69
+".Lincoln County, Missouri","63,182","64,699",2.40
+".Linn County, Missouri","11,826","11,791",-0.30
+".Livingston County, Missouri","14,335","14,557",1.55
+".McDonald County, Missouri","23,593","23,903",1.31
+".Macon County, Missouri","15,076","15,161",0.56
+".Madison County, Missouri","12,757","12,698",-0.46
+".Maries County, Missouri","8,432","8,430",-0.02
+".Marion County, Missouri","28,489","28,336",-0.54
+".Mercer County, Missouri","3,466","3,469",0.09
+".Miller County, Missouri","25,403","25,590",0.74
+".Mississippi County, Missouri","11,665","11,822",1.35
+".Moniteau County, Missouri","15,260","15,256",-0.03
+".Monroe County, Missouri","8,635","8,698",0.73
+".Montgomery County, Missouri","11,479","11,459",-0.17
+".Morgan County, Missouri","21,786","21,970",0.84
+".New Madrid County, Missouri","15,710","15,424",-1.82
+".Newton County, Missouri","60,096","60,677",0.97
+".Nodaway County, Missouri","20,715","20,695",-0.10
+".Oregon County, Missouri","8,703","8,720",0.20
+".Osage County, Missouri","13,398","13,468",0.52
+".Ozark County, Missouri","8,954","8,970",0.18
+".Pemiscot County, Missouri","14,865","14,613",-1.70
+".Perry County, Missouri","18,878","18,950",0.38
+".Pettis County, Missouri","43,397","43,530",0.31
+".Phelps County, Missouri","45,273","45,284",0.02
+".Pike County, Missouri","17,644","17,935",1.65
+".Platte County, Missouri","110,570","111,940",1.24
+".Polk County, Missouri","32,659","32,780",0.37
+".Pulaski County, Missouri","53,810","53,812",0.00
+".Putnam County, Missouri","4,662","4,638",-0.51
+".Ralls County, Missouri","10,410","10,489",0.76
+".Randolph County, Missouri","24,626","24,109",-2.10
+".Ray County, Missouri","23,121","23,182",0.26
+".Reynolds County, Missouri","5,996","5,950",-0.77
+".Ripley County, Missouri","10,714","10,806",0.86
+".St. Charles County, Missouri","413,798","416,659",0.69
+".St. Clair County, Missouri","9,595","9,752",1.64
+".Ste. Genevieve County, Missouri","18,613","18,642",0.16
+".St. Francois County, Missouri","66,906","67,058",0.23
+".St. Louis County, Missouri","990,791","987,059",-0.38
+".Saline County, Missouri","23,003","23,049",0.20
+".Schuyler County, Missouri","4,000","4,053",1.33
+".Scotland County, Missouri","4,647","4,676",0.62
+".Scott County, Missouri","37,868","37,889",0.06
+".Shannon County, Missouri","7,216","7,238",0.30
+".Shelby County, Missouri","5,996","5,931",-1.08
+".Stoddard County, Missouri","28,390","28,397",0.02
+".Stone County, Missouri","32,134","32,658",1.63
+".Sullivan County, Missouri","5,816","5,797",-0.33
+".Taney County, Missouri","56,749","56,775",0.05
+".Texas County, Missouri","25,304","25,619",1.24
+".Vernon County, Missouri","19,599","19,710",0.57
+".Warren County, Missouri","37,290","37,806",1.38
+".Washington County, Missouri","23,392","23,534",0.61
+".Wayne County, Missouri","10,817","10,811",-0.06
+".Webster County, Missouri","40,366","41,472",2.74
+".Worth County, Missouri","1,940","1,907",-1.70
+".Wright County, Missouri","19,143","19,403",1.36
+".St. Louis city, Missouri","286,193","281,754",-1.55
+".Beaverhead County, Montana","9,747","9,885",1.42
+".Big Horn County, Montana","12,826","12,751",-0.58
+".Blaine County, Montana","6,972","6,899",-1.05
+".Broadwater County, Montana","7,771","8,032",3.36
+".Carbon County, Montana","11,236","11,419",1.63
+".Carter County, Montana","1,403","1,418",1.07
+".Cascade County, Montana","85,001","84,900",-0.12
+".Chouteau County, Montana","5,908","5,847",-1.03
+".Custer County, Montana","12,000","11,985",-0.13
+".Daniels County, Montana","1,645","1,633",-0.73
+".Dawson County, Montana","8,807","8,810",0.03
+".Deer Lodge County, Montana","9,544","9,673",1.35
+".Fallon County, Montana","3,050","2,994",-1.84
+".Fergus County, Montana","11,672","11,772",0.86
+".Flathead County, Montana","111,885","113,679",1.60
+".Gallatin County, Montana","124,938","126,409",1.18
+".Garfield County, Montana","1,218","1,211",-0.57
+".Glacier County, Montana","13,650","13,609",-0.30
+".Golden Valley County, Montana",826,835,1.09
+".Granite County, Montana","3,497","3,595",2.80
+".Hill County, Montana","16,118","16,276",0.98
+".Jefferson County, Montana","12,831","13,048",1.69
+".Judith Basin County, Montana","2,079","2,093",0.67
+".Lake County, Montana","32,853","33,338",1.48
+".Lewis and Clark County, Montana","73,784","75,011",1.66
+".Liberty County, Montana","1,974","1,974",0.00
+".Lincoln County, Montana","21,510","21,895",1.79
+".McCone County, Montana","1,711","1,676",-2.05
+".Madison County, Montana","9,252","9,521",2.91
+".Meagher County, Montana","2,026","2,071",2.22
+".Mineral County, Montana","5,020","5,090",1.39
+".Missoula County, Montana","121,011","121,849",0.69
+".Musselshell County, Montana","5,169","5,308",2.69
+".Park County, Montana","17,753","17,903",0.84
+".Petroleum County, Montana",521,554,6.33
+".Phillips County, Montana","4,228","4,249",0.50
+".Pondera County, Montana","6,092","6,125",0.54
+".Powder River County, Montana","1,732","1,743",0.64
+".Powell County, Montana","7,078","7,133",0.78
+".Prairie County, Montana","1,108","1,112",0.36
+".Ravalli County, Montana","47,177","47,738",1.19
+".Richland County, Montana","11,230","11,173",-0.51
+".Roosevelt County, Montana","10,537","10,319",-2.07
+".Rosebud County, Montana","8,152","8,160",0.10
+".Sanders County, Montana","13,384","13,684",2.24
+".Sheridan County, Montana","3,555","3,498",-1.60
+".Silver Bow County, Montana","35,947","36,360",1.15
+".Stillwater County, Montana","9,169","9,173",0.04
+".Sweet Grass County, Montana","3,727","3,763",0.97
+".Teton County, Montana","6,346","6,430",1.32
+".Toole County, Montana","5,077","5,133",1.10
+".Treasure County, Montana",754,772,2.39
+".Valley County, Montana","7,542","7,474",-0.90
+".Wheatland County, Montana","2,038","2,057",0.93
+".Wibaux County, Montana",927,910,-1.83
+".Yellowstone County, Montana","169,870","170,843",0.57
+".Adams County, Nebraska","30,947","30,899",-0.16
+".Antelope County, Nebraska","6,305","6,302",-0.05
+".Arthur County, Nebraska",425,412,-3.06
+".Banner County, Nebraska",657,674,2.59
+".Blaine County, Nebraska",452,436,-3.54
+".Boone County, Nebraska","5,366","5,310",-1.04
+".Box Butte County, Nebraska","10,683","10,692",0.08
+".Boyd County, Nebraska","1,730","1,725",-0.29
+".Brown County, Nebraska","2,883","2,853",-1.04
+".Buffalo County, Nebraska","50,532","50,697",0.33
+".Burt County, Nebraska","6,770","6,727",-0.64
+".Butler County, Nebraska","8,443","8,459",0.19
+".Cass County, Nebraska","27,152","27,446",1.08
+".Cedar County, Nebraska","8,366","8,262",-1.24
+".Chase County, Nebraska","3,754","3,724",-0.80
+".Cherry County, Nebraska","5,485","5,492",0.13
+".Cheyenne County, Nebraska","9,526","9,541",0.16
+".Clay County, Nebraska","6,049","6,116",1.11
+".Colfax County, Nebraska","10,453","10,566",1.08
+".Cuming County, Nebraska","8,953","8,918",-0.39
+".Custer County, Nebraska","10,504","10,581",0.73
+".Dakota County, Nebraska","21,116","21,268",0.72
+".Dawes County, Nebraska","8,252","8,133",-1.44
+".Dawson County, Nebraska","23,905","24,085",0.75
+".Deuel County, Nebraska","1,901","1,871",-1.58
+".Dixon County, Nebraska","5,516","5,491",-0.45
+".Dodge County, Nebraska","37,045","37,187",0.38
+".Douglas County, Nebraska","586,106","589,540",0.59
+".Dundy County, Nebraska","1,595","1,561",-2.13
+".Fillmore County, Nebraska","5,541","5,548",0.13
+".Franklin County, Nebraska","2,850","2,825",-0.88
+".Frontier County, Nebraska","2,611","2,585",-1.00
+".Furnas County, Nebraska","4,570","4,556",-0.31
+".Gage County, Nebraska","21,564","21,634",0.32
+".Garden County, Nebraska","1,835","1,794",-2.23
+".Garfield County, Nebraska","1,787","1,763",-1.34
+".Gosper County, Nebraska","1,835","1,847",0.65
+".Grant County, Nebraska",584,565,-3.25
+".Greeley County, Nebraska","2,235","2,219",-0.72
+".Hall County, Nebraska","62,096","62,197",0.16
+".Hamilton County, Nebraska","9,439","9,537",1.04
+".Harlan County, Nebraska","3,032","3,045",0.43
+".Hayes County, Nebraska",864,846,-2.08
+".Hitchcock County, Nebraska","2,614","2,552",-2.37
+".Holt County, Nebraska","10,013","10,093",0.80
+".Hooker County, Nebraska",682,679,-0.44
+".Howard County, Nebraska","6,509","6,527",0.28
+".Jefferson County, Nebraska","7,140","7,054",-1.20
+".Johnson County, Nebraska","5,245","5,198",-0.90
+".Kearney County, Nebraska","6,706","6,770",0.95
+".Keith County, Nebraska","8,179","8,113",-0.81
+".Keya Paha County, Nebraska",805,805,0.00
+".Kimball County, Nebraska","3,336","3,289",-1.41
+".Knox County, Nebraska","8,307","8,298",-0.11
+".Lancaster County, Nebraska","324,434","326,716",0.70
+".Lincoln County, Nebraska","33,614","33,365",-0.74
+".Logan County, Nebraska",685,655,-4.38
+".Loup County, Nebraska",601,592,-1.50
+".McPherson County, Nebraska",379,383,1.06
+".Madison County, Nebraska","35,414","35,627",0.60
+".Merrick County, Nebraska","7,715","7,755",0.52
+".Morrill County, Nebraska","4,522","4,504",-0.40
+".Nance County, Nebraska","3,317","3,274",-1.30
+".Nemaha County, Nebraska","7,036","7,076",0.57
+".Nuckolls County, Nebraska","4,069","4,095",0.64
+".Otoe County, Nebraska","16,186","16,335",0.92
+".Pawnee County, Nebraska","2,531","2,512",-0.75
+".Perkins County, Nebraska","2,827","2,795",-1.13
+".Phelps County, Nebraska","8,988","9,057",0.77
+".Pierce County, Nebraska","7,317","7,299",-0.25
+".Platte County, Nebraska","34,355","34,609",0.74
+".Polk County, Nebraska","5,240","5,228",-0.23
+".Red Willow County, Nebraska","10,528","10,457",-0.67
+".Richardson County, Nebraska","7,730","7,689",-0.53
+".Rock County, Nebraska","1,241","1,271",2.42
+".Saline County, Nebraska","14,548","14,555",0.05
+".Sarpy County, Nebraska","196,427","199,886",1.76
+".Saunders County, Nebraska","23,177","23,463",1.23
+".Scotts Bluff County, Nebraska","35,769","35,699",-0.20
+".Seward County, Nebraska","17,625","17,671",0.26
+".Sheridan County, Nebraska","5,006","4,928",-1.56
+".Sherman County, Nebraska","3,006","2,983",-0.77
+".Sioux County, Nebraska","1,127","1,154",2.40
+".Stanton County, Nebraska","5,765","5,856",1.58
+".Thayer County, Nebraska","4,854","4,829",-0.52
+".Thomas County, Nebraska",665,677,1.80
+".Thurston County, Nebraska","6,555","6,557",0.03
+".Valley County, Nebraska","4,058","4,012",-1.13
+".Washington County, Nebraska","21,167","21,152",-0.07
+".Wayne County, Nebraska","9,899","9,874",-0.25
+".Webster County, Nebraska","3,339","3,351",0.36
+".Wheeler County, Nebraska",782,775,-0.90
+".York County, Nebraska","14,312","14,356",0.31
+".Churchill County, Nevada","25,798","25,803",0.02
+".Clark County, Nevada","2,322,535","2,336,573",0.60
+".Douglas County, Nevada","49,662","49,545",-0.24
+".Elko County, Nevada","53,979","54,293",0.58
+".Esmeralda County, Nevada",747,736,-1.47
+".Eureka County, Nevada","1,863","1,917",2.90
+".Humboldt County, Nevada","17,296","17,136",-0.93
+".Lander County, Nevada","5,761","5,769",0.14
+".Lincoln County, Nevada","4,440","4,452",0.27
+".Lyon County, Nevada","61,628","62,583",1.55
+".Mineral County, Nevada","4,537","4,528",-0.20
+".Nye County, Nevada","54,769","55,720",1.74
+".Pershing County, Nevada","6,450","6,364",-1.33
+".Storey County, Nevada","4,165","4,177",0.29
+".Washoe County, Nevada","496,980","498,022",0.21
+".White Pine County, Nevada","8,746","8,522",-2.56
+".Carson City, Nevada","58,065","58,036",-0.05
+".Belknap County, New Hampshire","64,705","65,027",0.50
+".Carroll County, New Hampshire","52,154","52,448",0.56
+".Cheshire County, New Hampshire","77,463","77,703",0.31
+".Coos County, New Hampshire","31,476","31,372",-0.33
+".Grafton County, New Hampshire","93,131","93,146",0.02
+".Hillsborough County, New Hampshire","427,493","427,354",-0.03
+".Merrimack County, New Hampshire","156,459","157,103",0.41
+".Rockingham County, New Hampshire","319,633","320,689",0.33
+".Strafford County, New Hampshire","132,571","133,243",0.51
+".Sullivan County, New Hampshire","43,918","43,969",0.12
+".Atlantic County, New Jersey","275,382","275,213",-0.06
+".Bergen County, New Jersey","953,540","957,736",0.44
+".Burlington County, New Jersey","466,101","469,167",0.66
+".Camden County, New Jersey","524,649","527,196",0.49
+".Cape May County, New Jersey","95,405","94,610",-0.83
+".Cumberland County, New Jersey","151,347","152,326",0.65
+".Essex County, New Jersey","849,724","851,117",0.16
+".Gloucester County, New Jersey","306,767","308,423",0.54
+".Hudson County, New Jersey","702,381","705,472",0.44
+".Hunterdon County, New Jersey","129,805","130,183",0.29
+".Mercer County, New Jersey","380,779","381,671",0.23
+".Middlesex County, New Jersey","861,094","863,623",0.29
+".Monmouth County, New Jersey","644,228","642,799",-0.22
+".Morris County, New Jersey","511,219","514,423",0.63
+".Ocean County, New Jersey","655,663","659,197",0.54
+".Passaic County, New Jersey","513,634","513,395",-0.05
+".Salem County, New Jersey","65,157","65,338",0.28
+".Somerset County, New Jersey","347,047","348,842",0.52
+".Sussex County, New Jersey","145,575","146,132",0.38
+".Union County, New Jersey","570,417","572,726",0.40
+".Warren County, New Jersey","110,903","111,252",0.31
+".Bernalillo County, New Mexico","672,957","671,586",-0.20
+".Catron County, New Mexico","3,793","3,825",0.84
+".Chaves County, New Mexico","63,892","63,561",-0.52
+".Cibola County, New Mexico","26,871","26,780",-0.34
+".Colfax County, New Mexico","12,272","12,255",-0.14
+".Curry County, New Mexico","47,430","47,222",-0.44
+".De Baca County, New Mexico","1,692","1,657",-2.07
+".Doña Ana County, New Mexico","223,530","225,210",0.75
+".Eddy County, New Mexico","60,203","60,275",0.12
+".Grant County, New Mexico","27,693","27,472",-0.80
+".Guadalupe County, New Mexico","4,316","4,292",-0.56
+".Harding County, New Mexico",621,624,0.48
+".Hidalgo County, New Mexico","4,011","3,965",-1.15
+".Lea County, New Mexico","72,343","72,101",-0.33
+".Lincoln County, New Mexico","20,343","20,029",-1.54
+".Los Alamos County, New Mexico","19,273","19,444",0.89
+".Luna County, New Mexico","25,693","25,316",-1.47
+".McKinley County, New Mexico","69,931","68,797",-1.62
+".Mora County, New Mexico","4,147","4,123",-0.58
+".Otero County, New Mexico","68,517","68,835",0.46
+".Quay County, New Mexico","8,529","8,510",-0.22
+".Rio Arriba County, New Mexico","39,991","39,876",-0.29
+".Roosevelt County, New Mexico","18,858","18,787",-0.38
+".Sandoval County, New Mexico","153,597","155,936",1.52
+".San Juan County, New Mexico","120,569","120,675",0.09
+".San Miguel County, New Mexico","26,902","26,668",-0.87
+".Santa Fe County, New Mexico","155,761","155,956",0.13
+".Sierra County, New Mexico","11,474","11,488",0.12
+".Socorro County, New Mexico","16,111","15,963",-0.92
+".Taos County, New Mexico","34,590","34,405",-0.53
+".Torrance County, New Mexico","15,383","15,633",1.63
+".Union County, New Mexico","3,982","3,964",-0.45
+".Valencia County, New Mexico","78,201","79,141",1.20
+".Albany County, New York","315,921","316,659",0.23
+".Allegany County, New York","46,726","46,651",-0.16
+".Bronx County, New York","1,381,808","1,356,476",-1.83
+".Broome County, New York","197,258","196,077",-0.60
+".Cattaraugus County, New York","76,050","75,600",-0.59
+".Cayuga County, New York","74,679","74,485",-0.26
+".Chautauqua County, New York","125,344","124,891",-0.36
+".Chemung County, New York","81,641","81,325",-0.39
+".Chenango County, New York","46,331","45,920",-0.89
+".Clinton County, New York","78,037","78,115",0.10
+".Columbia County, New York","61,108","60,470",-1.04
+".Cortland County, New York","46,081","45,752",-0.71
+".Delaware County, New York","44,774","44,410",-0.81
+".Dutchess County, New York","297,609","297,150",-0.15
+".Erie County, New York","948,423","946,147",-0.24
+".Essex County, New York","36,763","36,775",0.03
+".Franklin County, New York","46,393","46,502",0.23
+".Fulton County, New York","52,256","52,234",-0.04
+".Genesee County, New York","57,398","57,529",0.23
+".Greene County, New York","47,345","47,062",-0.60
+".Hamilton County, New York","5,121","5,082",-0.76
+".Herkimer County, New York","59,584","59,484",-0.17
+".Jefferson County, New York","115,461","114,787",-0.58
+".Kings County, New York","2,589,531","2,561,225",-1.09
+".Lewis County, New York","26,595","26,548",-0.18
+".Livingston County, New York","61,340","61,158",-0.30
+".Madison County, New York","67,054","66,921",-0.20
+".Monroe County, New York","750,887","748,482",-0.32
+".Montgomery County, New York","49,333","49,368",0.07
+".Nassau County, New York","1,385,294","1,381,715",-0.26
+".New York County, New York","1,594,543","1,597,451",0.18
+".Niagara County, New York","210,467","209,457",-0.48
+".Oneida County, New York","228,358","227,555",-0.35
+".Onondaga County, New York","469,728","467,873",-0.39
+".Ontario County, New York","112,481","112,494",0.01
+".Orange County, New York","406,491","407,470",0.24
+".Orleans County, New York","39,163","39,124",-0.10
+".Oswego County, New York","118,239","118,162",-0.07
+".Otsego County, New York","60,409","60,126",-0.47
+".Putnam County, New York","98,312","98,060",-0.26
+".Queens County, New York","2,278,558","2,252,196",-1.16
+".Rensselaer County, New York","159,421","159,305",-0.07
+".Richmond County, New York","491,358","490,687",-0.14
+".Rockland County, New York","340,357","340,807",0.13
+".St. Lawrence County, New York","107,089","106,940",-0.14
+".Saratoga County, New York","238,468","238,711",0.10
+".Schenectady County, New York","159,694","159,902",0.13
+".Schoharie County, New York","30,091","30,105",0.05
+".Schuyler County, New York","17,609","17,507",-0.58
+".Seneca County, New York","32,586","32,349",-0.73
+".Steuben County, New York","92,505","92,162",-0.37
+".Suffolk County, New York","1,527,974","1,523,170",-0.31
+".Sullivan County, New York","79,735","79,920",0.23
+".Tioga County, New York","47,766","47,715",-0.11
+".Tompkins County, New York","104,299","103,558",-0.71
+".Ulster County, New York","182,320","182,333",0.01
+".Warren County, New York","65,427","65,380",-0.07
+".Washington County, New York","60,810","60,047",-1.25
+".Wayne County, New York","90,958","90,829",-0.14
+".Westchester County, New York","991,736","990,817",-0.09
+".Wyoming County, New York","39,601","39,532",-0.17
+".Yates County, New York","24,502","24,472",-0.12
+".Alamance County, North Carolina","176,618","179,165",1.44
+".Alexander County, North Carolina","36,316","36,473",0.43
+".Alleghany County, North Carolina","11,193","11,342",1.33
+".Anson County, North Carolina","21,958","21,897",-0.28
+".Ashe County, North Carolina","27,062","27,063",0.00
+".Avery County, North Carolina","17,541","17,561",0.11
+".Beaufort County, North Carolina","44,400","44,481",0.18
+".Bertie County, North Carolina","17,068","16,922",-0.86
+".Bladen County, North Carolina","29,391","29,484",0.32
+".Brunswick County, North Carolina","152,908","159,964",4.61
+".Buncombe County, North Carolina","273,790","275,901",0.77
+".Burke County, North Carolina","87,972","88,338",0.42
+".Cabarrus County, North Carolina","235,909","240,016",1.74
+".Caldwell County, North Carolina","80,347","80,574",0.28
+".Camden County, North Carolina","11,090","11,137",0.42
+".Carteret County, North Carolina","69,326","69,615",0.42
+".Caswell County, North Carolina","22,431","22,807",1.68
+".Catawba County, North Carolina","163,167","164,645",0.91
+".Chatham County, North Carolina","79,939","81,624",2.11
+".Cherokee County, North Carolina","29,459","29,959",1.70
+".Chowan County, North Carolina","13,898","13,891",-0.05
+".Clay County, North Carolina","11,615","11,864",2.14
+".Cleveland County, North Carolina","100,653","101,378",0.72
+".Columbus County, North Carolina","50,075","50,121",0.09
+".Craven County, North Carolina","101,087","102,391",1.29
+".Cumberland County, North Carolina","336,781","337,890",0.33
+".Currituck County, North Carolina","31,008","31,593",1.89
+".Dare County, North Carolina","37,987","38,110",0.32
+".Davidson County, North Carolina","172,380","174,804",1.41
+".Davie County, North Carolina","44,115","44,599",1.10
+".Duplin County, North Carolina","48,934","49,520",1.20
+".Durham County, North Carolina","333,292","336,892",1.08
+".Edgecombe County, North Carolina","48,389","48,832",0.92
+".Forsyth County, North Carolina","389,661","392,921",0.84
+".Franklin County, North Carolina","74,400","77,001",3.50
+".Gaston County, North Carolina","233,970","237,242",1.40
+".Gates County, North Carolina","10,370","10,343",-0.26
+".Graham County, North Carolina","8,032","8,052",0.25
+".Granville County, North Carolina","61,702","62,192",0.79
+".Greene County, North Carolina","20,367","20,530",0.80
+".Guilford County, North Carolina","546,457","549,866",0.62
+".Halifax County, North Carolina","47,711","47,298",-0.87
+".Harnett County, North Carolina","138,478","141,477",2.17
+".Haywood County, North Carolina","62,615","62,969",0.57
+".Henderson County, North Carolina","118,298","119,230",0.79
+".Hertford County, North Carolina","19,634","19,453",-0.92
+".Hoke County, North Carolina","53,691","54,446",1.41
+".Hyde County, North Carolina","4,656","4,607",-1.05
+".Iredell County, North Carolina","195,874","199,710",1.96
+".Jackson County, North Carolina","43,922","44,574",1.48
+".Johnston County, North Carolina","234,902","241,955",3.00
+".Jones County, North Carolina","9,219","9,401",1.97
+".Lee County, North Carolina","65,543","67,059",2.31
+".Lenoir County, North Carolina","54,499","54,895",0.73
+".Lincoln County, North Carolina","93,108","95,675",2.76
+".McDowell County, North Carolina","44,755","44,893",0.31
+".Macon County, North Carolina","37,969","38,412",1.17
+".Madison County, North Carolina","21,881","22,071",0.87
+".Martin County, North Carolina","21,478","21,447",-0.14
+".Mecklenburg County, North Carolina","1,144,075","1,163,701",1.72
+".Mitchell County, North Carolina","15,048","14,999",-0.33
+".Montgomery County, North Carolina","25,841","26,085",0.94
+".Moore County, North Carolina","105,491","106,898",1.33
+".Nash County, North Carolina","95,820","96,551",0.76
+".New Hanover County, North Carolina","235,784","238,852",1.30
+".Northampton County, North Carolina","16,827","16,715",-0.67
+".Onslow County, North Carolina","209,031","213,676",2.22
+".Orange County, North Carolina","150,253","150,626",0.25
+".Pamlico County, North Carolina","12,234","12,423",1.54
+".Pasquotank County, North Carolina","41,168","41,444",0.67
+".Pender County, North Carolina","65,698","68,521",4.30
+".Perquimans County, North Carolina","13,221","13,377",1.18
+".Person County, North Carolina","39,343","39,737",1.00
+".Pitt County, North Carolina","173,610","175,119",0.87
+".Polk County, North Carolina","20,012","20,060",0.24
+".Randolph County, North Carolina","146,196","147,458",0.86
+".Richmond County, North Carolina","42,573","42,324",-0.58
+".Robeson County, North Carolina","116,466","117,365",0.77
+".Rockingham County, North Carolina","91,966","92,518",0.60
+".Rowan County, North Carolina","149,673","151,661",1.33
+".Rutherford County, North Carolina","64,945","65,507",0.87
+".Sampson County, North Carolina","59,027","59,601",0.97
+".Scotland County, North Carolina","34,350","34,376",0.08
+".Stanly County, North Carolina","64,231","65,699",2.29
+".Stokes County, North Carolina","45,136","45,532",0.88
+".Surry County, North Carolina","71,482","71,462",-0.03
+".Swain County, North Carolina","13,936","13,916",-0.14
+".Transylvania County, North Carolina","33,373","33,549",0.53
+".Tyrrell County, North Carolina","3,473","3,461",-0.35
+".Union County, North Carolina","249,172","256,452",2.92
+".Vance County, North Carolina","42,154","42,301",0.35
+".Wake County, North Carolina","1,170,778","1,190,275",1.67
+".Warren County, North Carolina","18,677","18,836",0.85
+".Washington County, North Carolina","10,776","10,713",-0.58
+".Watauga County, North Carolina","55,013","54,748",-0.48
+".Wayne County, North Carolina","117,449","118,686",1.05
+".Wilkes County, North Carolina","65,791","66,013",0.34
+".Wilson County, North Carolina","78,306","78,970",0.85
+".Yadkin County, North Carolina","37,507","37,774",0.71
+".Yancey County, North Carolina","18,768","18,938",0.91
+".Adams County, North Dakota","2,133","2,163",1.41
+".Barnes County, North Dakota","10,761","10,726",-0.33
+".Benson County, North Dakota","5,772","5,745",-0.47
+".Billings County, North Dakota","1,025","1,034",0.88
+".Bottineau County, North Dakota","6,384","6,349",-0.55
+".Bowman County, North Dakota","2,899","2,867",-1.10
+".Burke County, North Dakota","2,132","2,134",0.09
+".Burleigh County, North Dakota","99,396","100,012",0.62
+".Cass County, North Dakota","192,713","196,362",1.89
+".Cavalier County, North Dakota","3,608","3,596",-0.33
+".Dickey County, North Dakota","4,928","4,900",-0.57
+".Divide County, North Dakota","2,169","2,135",-1.57
+".Dunn County, North Dakota","3,994","4,019",0.63
+".Eddy County, North Dakota","2,307","2,263",-1.91
+".Emmons County, North Dakota","3,254","3,224",-0.92
+".Foster County, North Dakota","3,380","3,309",-2.10
+".Golden Valley County, North Dakota","1,746","1,743",-0.17
+".Grand Forks County, North Dakota","72,421","72,708",0.40
+".Grant County, North Dakota","2,238","2,215",-1.03
+".Griggs County, North Dakota","2,249","2,248",-0.04
+".Hettinger County, North Dakota","2,411","2,415",0.17
+".Kidder County, North Dakota","2,381","2,342",-1.64
+".LaMoure County, North Dakota","4,076","4,096",0.49
+".Logan County, North Dakota","1,838","1,869",1.69
+".McHenry County, North Dakota","5,195","5,131",-1.23
+".McIntosh County, North Dakota","2,495","2,488",-0.28
+".McKenzie County, North Dakota","13,889","14,252",2.61
+".McLean County, North Dakota","9,858","9,832",-0.26
+".Mercer County, North Dakota","8,327","8,309",-0.22
+".Morton County, North Dakota","33,705","33,895",0.56
+".Mountrail County, North Dakota","9,241","9,383",1.54
+".Nelson County, North Dakota","2,999","2,991",-0.27
+".Oliver County, North Dakota","1,862","1,879",0.91
+".Pembina County, North Dakota","6,745","6,661",-1.25
+".Pierce County, North Dakota","3,931","3,902",-0.74
+".Ramsey County, North Dakota","11,516","11,463",-0.46
+".Ransom County, North Dakota","5,647","5,603",-0.78
+".Renville County, North Dakota","2,250","2,279",1.29
+".Richland County, North Dakota","16,574","16,558",-0.10
+".Rolette County, North Dakota","11,867","11,728",-1.17
+".Sargent County, North Dakota","3,804","3,776",-0.74
+".Sheridan County, North Dakota","1,286","1,266",-1.56
+".Sioux County, North Dakota","3,686","3,643",-1.17
+".Slope County, North Dakota",682,674,-1.17
+".Stark County, North Dakota","32,718","33,001",0.86
+".Steele County, North Dakota","1,793","1,782",-0.61
+".Stutsman County, North Dakota","21,476","21,392",-0.39
+".Towner County, North Dakota","2,060","2,030",-1.46
+".Traill County, North Dakota","7,955","7,908",-0.59
+".Walsh County, North Dakota","10,460","10,305",-1.48
+".Ward County, North Dakota","68,788","68,332",-0.66
+".Wells County, North Dakota","3,922","3,876",-1.17
+".Williams County, North Dakota","37,966","39,113",3.02
+".Adams County, Ohio","27,459","27,521",0.23
+".Allen County, Ohio","101,097","100,838",-0.26
+".Ashland County, Ohio","52,024","52,190",0.32
+".Ashtabula County, Ohio","96,960","96,845",-0.12
+".Athens County, Ohio","60,881","62,706",3.00
+".Auglaize County, Ohio","45,946","46,050",0.23
+".Belmont County, Ohio","65,495","64,918",-0.88
+".Brown County, Ohio","43,700","43,777",0.18
+".Butler County, Ohio","389,728","393,043",0.85
+".Carroll County, Ohio","26,686","26,758",0.27
+".Champaign County, Ohio","38,743","38,845",0.26
+".Clark County, Ohio","134,732","134,610",-0.09
+".Clermont County, Ohio","210,679","211,972",0.61
+".Clinton County, Ohio","41,890","41,938",0.11
+".Columbiana County, Ohio","100,569","100,182",-0.38
+".Coshocton County, Ohio","36,615","36,869",0.69
+".Crawford County, Ohio","41,509","41,529",0.05
+".Cuyahoga County, Ohio","1,236,994","1,233,088",-0.32
+".Darke County, Ohio","51,526","51,415",-0.22
+".Defiance County, Ohio","38,128","38,315",0.49
+".Delaware County, Ohio","226,526","231,636",2.26
+".Erie County, Ohio","74,514","74,035",-0.64
+".Fairfield County, Ohio","162,956","165,360",1.48
+".Fayette County, Ohio","28,832","28,817",-0.05
+".Franklin County, Ohio","1,321,730","1,326,063",0.33
+".Fulton County, Ohio","42,158","42,007",-0.36
+".Gallia County, Ohio","29,030","28,986",-0.15
+".Geauga County, Ohio","95,491","95,407",-0.09
+".Greene County, Ohio","169,027","169,691",0.39
+".Guernsey County, Ohio","38,060","38,089",0.08
+".Hamilton County, Ohio","824,721","827,058",0.28
+".Hancock County, Ohio","74,774","74,704",-0.09
+".Hardin County, Ohio","30,391","30,368",-0.08
+".Harrison County, Ohio","14,351","14,159",-1.34
+".Henry County, Ohio","27,526","27,520",-0.02
+".Highland County, Ohio","43,426","43,614",0.43
+".Hocking County, Ohio","27,818","27,540",-1.00
+".Holmes County, Ohio","44,375","44,386",0.02
+".Huron County, Ohio","58,219","58,199",-0.03
+".Jackson County, Ohio","32,611","32,606",-0.02
+".Jefferson County, Ohio","64,273","64,026",-0.38
+".Knox County, Ohio","63,196","63,320",0.20
+".Lake County, Ohio","231,736","231,640",-0.04
+".Lawrence County, Ohio","56,572","56,118",-0.80
+".Licking County, Ohio","181,765","183,201",0.79
+".Logan County, Ohio","46,062","46,057",-0.01
+".Lorain County, Ohio","316,031","317,910",0.59
+".Lucas County, Ohio","426,719","425,484",-0.29
+".Madison County, Ohio","43,581","44,602",2.34
+".Mahoning County, Ohio","225,922","225,596",-0.14
+".Marion County, Ohio","64,609","64,851",0.37
+".Medina County, Ohio","183,489","184,042",0.30
+".Meigs County, Ohio","21,961","21,767",-0.88
+".Mercer County, Ohio","42,424","42,439",0.04
+".Miami County, Ohio","110,213","110,876",0.60
+".Monroe County, Ohio","13,215","13,153",-0.47
+".Montgomery County, Ohio","533,474","533,796",0.06
+".Morgan County, Ohio","13,669","13,646",-0.17
+".Morrow County, Ohio","35,336","35,595",0.73
+".Muskingum County, Ohio","86,114","86,305",0.22
+".Noble County, Ohio","14,325","14,311",-0.10
+".Ottawa County, Ohio","39,968","39,803",-0.41
+".Paulding County, Ohio","18,762","18,706",-0.30
+".Perry County, Ohio","35,471","35,551",0.23
+".Pickaway County, Ohio","60,007","61,086",1.80
+".Pike County, Ohio","27,012","27,001",-0.04
+".Portage County, Ohio","161,742","162,665",0.57
+".Preble County, Ohio","40,574","40,556",-0.04
+".Putnam County, Ohio","34,330","34,199",-0.38
+".Richland County, Ohio","125,261","125,064",-0.16
+".Ross County, Ohio","76,508","76,501",-0.01
+".Sandusky County, Ohio","58,567","58,709",0.24
+".Scioto County, Ohio","72,189","71,969",-0.30
+".Seneca County, Ohio","54,534","54,527",-0.01
+".Shelby County, Ohio","47,684","47,765",0.17
+".Stark County, Ohio","372,785","372,716",-0.02
+".Summit County, Ohio","535,769","535,733",-0.01
+".Trumbull County, Ohio","200,726","200,373",-0.18
+".Tuscarawas County, Ohio","91,971","91,874",-0.11
+".Union County, Ohio","66,876","69,637",4.13
+".Van Wert County, Ohio","28,804","28,704",-0.35
+".Vinton County, Ohio","12,577","12,474",-0.82
+".Warren County, Ohio","249,735","252,148",0.97
+".Washington County, Ohio","58,868","58,577",-0.49
+".Wayne County, Ohio","116,552","116,510",-0.04
+".Williams County, Ohio","36,648","36,591",-0.16
+".Wood County, Ohio","131,642","132,650",0.77
+".Wyandot County, Ohio","21,552","21,457",-0.44
+".Adair County, Oklahoma","19,516","19,627",0.57
+".Alfalfa County, Oklahoma","5,689","5,673",-0.28
+".Atoka County, Oklahoma","14,327","14,525",1.38
+".Beaver County, Oklahoma","5,019","5,018",-0.02
+".Beckham County, Oklahoma","21,976","22,042",0.30
+".Blaine County, Oklahoma","8,445","8,539",1.11
+".Bryan County, Oklahoma","48,038","48,967",1.93
+".Caddo County, Oklahoma","26,237","26,214",-0.09
+".Canadian County, Oklahoma","169,254","175,829",3.88
+".Carter County, Oklahoma","48,336","48,596",0.54
+".Cherokee County, Oklahoma","48,074","48,185",0.23
+".Choctaw County, Oklahoma","14,407","14,276",-0.91
+".Cimarron County, Oklahoma","2,233","2,191",-1.88
+".Cleveland County, Oklahoma","299,484","301,193",0.57
+".Coal County, Oklahoma","5,291","5,266",-0.47
+".Comanche County, Oklahoma","122,225","121,574",-0.53
+".Cotton County, Oklahoma","5,449","5,427",-0.40
+".Craig County, Oklahoma","14,176","14,494",2.24
+".Creek County, Oklahoma","72,686","73,332",0.89
+".Custer County, Oklahoma","28,039","28,266",0.81
+".Delaware County, Oklahoma","41,480","41,703",0.54
+".Dewey County, Oklahoma","4,404","4,286",-2.68
+".Ellis County, Oklahoma","3,683","3,648",-0.95
+".Garfield County, Oklahoma","61,951","62,023",0.12
+".Garvin County, Oklahoma","25,771","25,865",0.36
+".Grady County, Oklahoma","56,648","57,375",1.28
+".Grant County, Oklahoma","4,122","4,083",-0.95
+".Greer County, Oklahoma","5,546","5,466",-1.44
+".Harmon County, Oklahoma","2,416","2,392",-0.99
+".Harper County, Oklahoma","3,165","3,190",0.79
+".Haskell County, Oklahoma","11,667","11,832",1.41
+".Hughes County, Oklahoma","13,434","13,436",0.01
+".Jackson County, Oklahoma","24,659","24,669",0.04
+".Jefferson County, Oklahoma","5,408","5,347",-1.13
+".Johnston County, Oklahoma","10,346","10,216",-1.26
+".Kay County, Oklahoma","43,738","43,641",-0.22
+".Kingfisher County, Oklahoma","15,228","15,481",1.66
+".Kiowa County, Oklahoma","8,480","8,398",-0.97
+".Latimer County, Oklahoma","9,556","9,526",-0.31
+".Le Flore County, Oklahoma","49,002","49,596",1.21
+".Lincoln County, Oklahoma","34,134","34,562",1.25
+".Logan County, Oklahoma","51,924","53,029",2.13
+".Love County, Oklahoma","10,174","10,296",1.20
+".McClain County, Oklahoma","45,410","47,072",3.66
+".McCurtain County, Oklahoma","30,773","30,660",-0.37
+".McIntosh County, Oklahoma","19,403","19,603",1.03
+".Major County, Oklahoma","7,536","7,581",0.60
+".Marshall County, Oklahoma","15,921","15,970",0.31
+".Mayes County, Oklahoma","39,570","39,889",0.81
+".Murray County, Oklahoma","13,681","13,754",0.53
+".Muskogee County, Oklahoma","66,307","66,677",0.56
+".Noble County, Oklahoma","10,845","10,832",-0.12
+".Nowata County, Oklahoma","9,413","9,438",0.27
+".Okfuskee County, Oklahoma","11,227","11,300",0.65
+".Oklahoma County, Oklahoma","803,103","808,866",0.72
+".Okmulgee County, Oklahoma","37,011","37,035",0.06
+".Osage County, Oklahoma","45,852","46,130",0.61
+".Ottawa County, Oklahoma","30,329","30,287",-0.14
+".Pawnee County, Oklahoma","15,681","15,864",1.17
+".Payne County, Oklahoma","82,701","83,352",0.79
+".Pittsburg County, Oklahoma","43,476","43,479",0.01
+".Pontotoc County, Oklahoma","38,032","38,396",0.96
+".Pottawatomie County, Oklahoma","73,351","73,791",0.60
+".Pushmataha County, Oklahoma","10,709","10,800",0.85
+".Roger Mills County, Oklahoma","3,337","3,295",-1.26
+".Rogers County, Oklahoma","99,060","100,248",1.20
+".Seminole County, Oklahoma","23,464","23,565",0.43
+".Sequoyah County, Oklahoma","39,801","40,291",1.23
+".Stephens County, Oklahoma","43,616","44,014",0.91
+".Texas County, Oklahoma","20,505","20,371",-0.65
+".Tillman County, Oklahoma","6,971","6,869",-1.46
+".Tulsa County, Oklahoma","677,061","682,868",0.86
+".Wagoner County, Oklahoma","86,697","89,280",2.98
+".Washington County, Oklahoma","53,238","53,706",0.88
+".Washita County, Oklahoma","10,736","10,736",0.00
+".Woods County, Oklahoma","8,602","8,564",-0.44
+".Woodward County, Oklahoma","20,015","19,947",-0.34
+".Baker County, Oregon","16,937","16,912",-0.15
+".Benton County, Oregon","97,661","97,713",0.05
+".Clackamas County, Oregon","423,118","423,173",0.01
+".Clatsop County, Oregon","41,652","41,102",-1.32
+".Columbia County, Oregon","53,607","53,880",0.51
+".Coos County, Oregon","64,923","64,212",-1.10
+".Crook County, Oregon","26,377","26,952",2.18
+".Curry County, Oregon","23,613","23,296",-1.34
+".Deschutes County, Oregon","206,483","208,513",0.98
+".Douglas County, Oregon","112,290","112,435",0.13
+".Gilliam County, Oregon","2,008","2,026",0.90
+".Grant County, Oregon","7,225","7,215",-0.14
+".Harney County, Oregon","7,532","7,440",-1.22
+".Hood River County, Oregon","24,035","23,745",-1.21
+".Jackson County, Oregon","221,669","220,768",-0.41
+".Jefferson County, Oregon","25,324","25,454",0.51
+".Josephine County, Oregon","87,800","87,821",0.02
+".Klamath County, Oregon","70,190","70,003",-0.27
+".Lake County, Oregon","8,373","8,293",-0.96
+".Lane County, Oregon","382,181","381,181",-0.26
+".Lincoln County, Oregon","50,752","50,821",0.14
+".Linn County, Oregon","130,622","131,496",0.67
+".Malheur County, Oregon","31,858","32,044",0.58
+".Marion County, Oregon","346,719","346,741",0.01
+".Morrow County, Oregon","12,292","12,302",0.08
+".Multnomah County, Oregon","794,563","789,698",-0.61
+".Polk County, Oregon","89,593","89,805",0.24
+".Sherman County, Oregon","1,947","1,951",0.21
+".Tillamook County, Oregon","27,521","27,417",-0.38
+".Umatilla County, Oregon","80,261","80,053",-0.26
+".Union County, Oregon","26,165","25,944",-0.84
+".Wallowa County, Oregon","7,650","7,674",0.31
+".Wasco County, Oregon","26,555","26,333",-0.84
+".Washington County, Oregon","600,086","598,865",-0.20
+".Wheeler County, Oregon","1,435","1,436",0.07
+".Yamhill County, Oregon","108,362","108,644",0.26
+".Adams County, Pennsylvania","105,959","106,748",0.74
+".Allegheny County, Pennsylvania","1,232,605","1,224,825",-0.63
+".Armstrong County, Pennsylvania","64,704","64,074",-0.97
+".Beaver County, Pennsylvania","165,737","165,631",-0.06
+".Bedford County, Pennsylvania","47,421","47,350",-0.15
+".Berks County, Pennsylvania","431,573","432,821",0.29
+".Blair County, Pennsylvania","120,734","120,273",-0.38
+".Bradford County, Pennsylvania","59,854","59,695",-0.27
+".Bucks County, Pennsylvania","645,557","645,984",0.07
+".Butler County, Pennsylvania","197,368","198,413",0.53
+".Cambria County, Pennsylvania","131,429","130,668",-0.58
+".Cameron County, Pennsylvania","4,406","4,380",-0.59
+".Carbon County, Pennsylvania","65,493","65,458",-0.05
+".Centre County, Pennsylvania","157,533","157,795",0.17
+".Chester County, Pennsylvania","546,638","549,784",0.58
+".Clarion County, Pennsylvania","37,227","36,970",-0.69
+".Clearfield County, Pennsylvania","77,824","77,090",-0.94
+".Clinton County, Pennsylvania","37,776","37,607",-0.45
+".Columbia County, Pennsylvania","65,289","65,439",0.23
+".Crawford County, Pennsylvania","82,405","82,001",-0.49
+".Cumberland County, Pennsylvania","268,532","270,738",0.82
+".Dauphin County, Pennsylvania","288,687","289,234",0.19
+".Delaware County, Pennsylvania","575,873","576,720",0.15
+".Elk County, Pennsylvania","30,467","30,198",-0.88
+".Erie County, Pennsylvania","268,840","267,571",-0.47
+".Fayette County, Pennsylvania","125,368","123,915",-1.16
+".Forest County, Pennsylvania","6,603","6,449",-2.33
+".Franklin County, Pennsylvania","156,951","157,854",0.58
+".Fulton County, Pennsylvania","14,554","14,468",-0.59
+".Greene County, Pennsylvania","34,529","34,357",-0.50
+".Huntingdon County, Pennsylvania","43,297","43,514",0.50
+".Indiana County, Pennsylvania","83,064","83,094",0.04
+".Jefferson County, Pennsylvania","43,731","43,612",-0.27
+".Juniata County, Pennsylvania","23,281","23,243",-0.16
+".Lackawanna County, Pennsylvania","215,750","216,123",0.17
+".Lancaster County, Pennsylvania","556,660","558,589",0.35
+".Lawrence County, Pennsylvania","84,812","84,472",-0.40
+".Lebanon County, Pennsylvania","143,902","144,252",0.24
+".Lehigh County, Pennsylvania","376,274","377,754",0.39
+".Luzerne County, Pennsylvania","326,496","327,388",0.27
+".Lycoming County, Pennsylvania","113,034","112,724",-0.27
+".McKean County, Pennsylvania","39,819","39,519",-0.75
+".Mercer County, Pennsylvania","109,137","108,503",-0.58
+".Mifflin County, Pennsylvania","45,984","45,922",-0.13
+".Monroe County, Pennsylvania","167,451","166,053",-0.83
+".Montgomery County, Pennsylvania","865,044","868,742",0.43
+".Montour County, Pennsylvania","18,054","17,860",-1.07
+".Northampton County, Pennsylvania","317,900","319,091",0.37
+".Northumberland County, Pennsylvania","90,123","90,120",0.00
+".Perry County, Pennsylvania","46,113","46,083",-0.07
+".Philadelphia County, Pennsylvania","1,566,836","1,550,542",-1.04
+".Pike County, Pennsylvania","60,576","61,247",1.11
+".Potter County, Pennsylvania","16,206","15,999",-1.28
+".Schuylkill County, Pennsylvania","143,188","143,786",0.42
+".Snyder County, Pennsylvania","39,506","39,717",0.53
+".Somerset County, Pennsylvania","72,629","72,197",-0.59
+".Sullivan County, Pennsylvania","5,845","5,834",-0.19
+".Susquehanna County, Pennsylvania","38,139","38,109",-0.08
+".Tioga County, Pennsylvania","40,967","40,840",-0.31
+".Union County, Pennsylvania","42,690","42,042",-1.52
+".Venango County, Pennsylvania","49,734","49,431",-0.61
+".Warren County, Pennsylvania","37,818","37,572",-0.65
+".Washington County, Pennsylvania","209,940","210,232",0.14
+".Wayne County, Pennsylvania","51,084","51,262",0.35
+".Westmoreland County, Pennsylvania","351,998","351,163",-0.24
+".Wyoming County, Pennsylvania","26,024","25,902",-0.47
+".York County, Pennsylvania","461,049","464,640",0.78
+".Bristol County, Rhode Island","50,307","50,255",-0.10
+".Kent County, Rhode Island","171,134","171,278",0.08
+".Newport County, Rhode Island","84,721","83,832",-1.05
+".Providence County, Rhode Island","657,424","660,615",0.49
+".Washington County, Rhode Island","130,256","129,982",-0.21
+".Abbeville County, South Carolina","24,338","24,434",0.39
+".Aiken County, South Carolina","174,228","177,130",1.67
+".Allendale County, South Carolina","7,418","7,369",-0.66
+".Anderson County, South Carolina","209,652","213,076",1.63
+".Bamberg County, South Carolina","12,950","12,974",0.19
+".Barnwell County, South Carolina","20,471","20,447",-0.12
+".Beaufort County, South Carolina","196,147","198,979",1.44
+".Berkeley County, South Carolina","244,952","255,217",4.19
+".Calhoun County, South Carolina","14,197","14,186",-0.08
+".Charleston County, South Carolina","419,350","424,367",1.20
+".Cherokee County, South Carolina","56,121","56,714",1.06
+".Chester County, South Carolina","31,993","32,226",0.73
+".Chesterfield County, South Carolina","43,741","44,031",0.66
+".Clarendon County, South Carolina","30,927","31,004",0.25
+".Colleton County, South Carolina","38,580","38,874",0.76
+".Darlington County, South Carolina","62,436","62,416",-0.03
+".Dillon County, South Carolina","27,747","27,698",-0.18
+".Dorchester County, South Carolina","166,050","169,833",2.28
+".Edgefield County, South Carolina","26,959","27,607",2.40
+".Fairfield County, South Carolina","20,450","20,422",-0.14
+".Florence County, South Carolina","136,740","137,214",0.35
+".Georgetown County, South Carolina","64,669","65,731",1.64
+".Greenville County, South Carolina","547,845","558,036",1.86
+".Greenwood County, South Carolina","69,223","69,460",0.34
+".Hampton County, South Carolina","18,136","18,122",-0.08
+".Horry County, South Carolina","383,147","397,478",3.74
+".Jasper County, South Carolina","31,986","33,544",4.87
+".Kershaw County, South Carolina","67,850","69,905",3.03
+".Lancaster County, South Carolina","104,724","108,215",3.33
+".Laurens County, South Carolina","67,951","68,873",1.36
+".Lee County, South Carolina","16,161","15,967",-1.20
+".Lexington County, South Carolina","305,105","309,528",1.45
+".McCormick County, South Carolina","9,741","9,941",2.05
+".Marion County, South Carolina","28,471","28,508",0.13
+".Marlboro County, South Carolina","26,006","25,704",-1.16
+".Newberry County, South Carolina","38,315","38,825",1.33
+".Oconee County, South Carolina","80,160","81,221",1.32
+".Orangeburg County, South Carolina","83,101","82,820",-0.34
+".Pickens County, South Carolina","133,470","135,495",1.52
+".Richland County, South Carolina","421,526","425,138",0.86
+".Saluda County, South Carolina","18,984","19,123",0.73
+".Spartanburg County, South Carolina","345,948","356,698",3.11
+".Sumter County, South Carolina","103,936","104,165",0.22
+".Union County, South Carolina","26,739","26,629",-0.41
+".Williamsburg County, South Carolina","30,113","29,891",-0.74
+".York County, South Carolina","294,201","298,320",1.40
+".Aurora County, South Dakota","2,762","2,782",0.72
+".Beadle County, South Dakota","19,488","19,591",0.53
+".Bennett County, South Dakota","3,333","3,305",-0.84
+".Bon Homme County, South Dakota","7,064","7,065",0.01
+".Brookings County, South Dakota","35,491","35,980",1.38
+".Brown County, South Dakota","37,901","37,733",-0.44
+".Brule County, South Dakota","5,301","5,311",0.19
+".Buffalo County, South Dakota","1,854","1,884",1.62
+".Butte County, South Dakota","10,790","10,863",0.68
+".Campbell County, South Dakota","1,355","1,340",-1.11
+".Charles Mix County, South Dakota","9,232","9,240",0.09
+".Clark County, South Dakota","3,923","3,948",0.64
+".Clay County, South Dakota","15,301","15,431",0.85
+".Codington County, South Dakota","28,736","28,971",0.82
+".Corson County, South Dakota","3,817","3,782",-0.92
+".Custer County, South Dakota","9,021","9,117",1.06
+".Davison County, South Dakota","19,907","19,922",0.08
+".Day County, South Dakota","5,475","5,451",-0.44
+".Deuel County, South Dakota","4,361","4,354",-0.16
+".Dewey County, South Dakota","5,142","5,208",1.28
+".Douglas County, South Dakota","2,787","2,838",1.83
+".Edmunds County, South Dakota","4,071","4,057",-0.34
+".Fall River County, South Dakota","7,397","7,393",-0.05
+".Faulk County, South Dakota","2,122","2,151",1.37
+".Grant County, South Dakota","7,486","7,553",0.90
+".Gregory County, South Dakota","3,999","4,018",0.48
+".Haakon County, South Dakota","1,834","1,851",0.93
+".Hamlin County, South Dakota","6,394","6,451",0.89
+".Hand County, South Dakota","3,112","3,107",-0.16
+".Hanson County, South Dakota","3,479","3,471",-0.23
+".Harding County, South Dakota","1,339","1,324",-1.12
+".Hughes County, South Dakota","17,681","17,624",-0.32
+".Hutchinson County, South Dakota","7,351","7,394",0.58
+".Hyde County, South Dakota","1,199","1,186",-1.08
+".Jackson County, South Dakota","2,832","2,776",-1.98
+".Jerauld County, South Dakota","1,662","1,660",-0.12
+".Jones County, South Dakota",875,855,-2.29
+".Kingsbury County, South Dakota","5,279","5,276",-0.06
+".Lake County, South Dakota","10,940","11,031",0.83
+".Lawrence County, South Dakota","27,240","28,053",2.98
+".Lincoln County, South Dakota","71,024","73,238",3.12
+".Lyman County, South Dakota","3,705","3,705",0.00
+".McCook County, South Dakota","5,768","5,809",0.71
+".McPherson County, South Dakota","2,396","2,334",-2.59
+".Marshall County, South Dakota","4,363","4,390",0.62
+".Meade County, South Dakota","30,702","30,954",0.82
+".Mellette County, South Dakota","1,873","1,851",-1.17
+".Miner County, South Dakota","2,285","2,280",-0.22
+".Minnehaha County, South Dakota","203,845","206,930",1.51
+".Moody County, South Dakota","6,382","6,450",1.07
+".Oglala Lakota County, South Dakota","13,508","13,434",-0.55
+".Pennington County, South Dakota","114,306","115,903",1.40
+".Perkins County, South Dakota","2,809","2,834",0.89
+".Potter County, South Dakota","2,446","2,413",-1.35
+".Roberts County, South Dakota","10,139","10,206",0.66
+".Sanborn County, South Dakota","2,403","2,399",-0.17
+".Spink County, South Dakota","6,228","6,166",-1.00
+".Stanley County, South Dakota","3,017","3,043",0.86
+".Sully County, South Dakota","1,482","1,494",0.81
+".Todd County, South Dakota","9,233","9,199",-0.37
+".Tripp County, South Dakota","5,579","5,621",0.75
+".Turner County, South Dakota","8,888","9,027",1.56
+".Union County, South Dakota","17,063","17,183",0.70
+".Walworth County, South Dakota","5,286","5,269",-0.32
+".Yankton County, South Dakota","23,412","23,517",0.45
+".Ziebach County, South Dakota","2,394","2,322",-3.01
+".Anderson County, Tennessee","78,929","80,234",1.65
+".Bedford County, Tennessee","51,964","53,055",2.10
+".Benton County, Tennessee","15,994","16,103",0.68
+".Bledsoe County, Tennessee","14,824","15,060",1.59
+".Blount County, Tennessee","139,810","141,456",1.18
+".Bradley County, Tennessee","110,539","111,579",0.94
+".Campbell County, Tennessee","39,564","40,223",1.67
+".Cannon County, Tennessee","14,807","15,063",1.73
+".Carroll County, Tennessee","28,418","28,860",1.56
+".Carter County, Tennessee","56,485","57,022",0.95
+".Cheatham County, Tennessee","41,764","42,254",1.17
+".Chester County, Tennessee","17,558","17,606",0.27
+".Claiborne County, Tennessee","32,357","32,654",0.92
+".Clay County, Tennessee","7,656","7,714",0.76
+".Cocke County, Tennessee","36,849","37,404",1.51
+".Coffee County, Tennessee","59,779","60,633",1.43
+".Crockett County, Tennessee","13,862","13,982",0.87
+".Cumberland County, Tennessee","63,482","64,760",2.01
+".Davidson County, Tennessee","707,351","712,334",0.70
+".Decatur County, Tennessee","11,549","11,656",0.93
+".DeKalb County, Tennessee","21,002","21,225",1.06
+".Dickson County, Tennessee","55,727","56,729",1.80
+".Dyer County, Tennessee","36,440","36,498",0.16
+".Fayette County, Tennessee","43,338","44,175",1.93
+".Fentress County, Tennessee","19,335","19,696",1.87
+".Franklin County, Tennessee","44,119","44,654",1.21
+".Gibson County, Tennessee","50,826","51,045",0.43
+".Giles County, Tennessee","30,540","30,721",0.59
+".Grainger County, Tennessee","24,185","24,681",2.05
+".Greene County, Tennessee","71,292","72,577",1.80
+".Grundy County, Tennessee","13,779","13,955",1.28
+".Hamblen County, Tennessee","65,167","66,216",1.61
+".Hamilton County, Tennessee","374,602","379,864",1.40
+".Hancock County, Tennessee","6,846","6,956",1.61
+".Hardeman County, Tennessee","25,511","25,567",0.22
+".Hardin County, Tennessee","27,065","27,229",0.61
+".Hawkins County, Tennessee","57,903","58,600",1.20
+".Haywood County, Tennessee","17,518","17,328",-1.08
+".Henderson County, Tennessee","27,907","28,070",0.58
+".Henry County, Tennessee","32,382","32,554",0.53
+".Hickman County, Tennessee","25,481","25,826",1.35
+".Houston County, Tennessee","8,247","8,393",1.77
+".Humphreys County, Tennessee","19,023","19,209",0.98
+".Jackson County, Tennessee","12,015","12,363",2.90
+".Jefferson County, Tennessee","56,660","57,838",2.08
+".Johnson County, Tennessee","18,046","18,375",1.82
+".Knox County, Tennessee","495,380","500,669",1.07
+".Lake County, Tennessee","6,500","6,347",-2.35
+".Lauderdale County, Tennessee","24,741","24,610",-0.53
+".Lawrence County, Tennessee","45,502","46,114",1.34
+".Lewis County, Tennessee","12,912","13,066",1.19
+".Lincoln County, Tennessee","36,006","36,169",0.45
+".Loudon County, Tennessee","58,244","60,591",4.03
+".McMinn County, Tennessee","54,695","55,678",1.80
+".McNairy County, Tennessee","25,993","26,163",0.65
+".Macon County, Tennessee","26,214","26,793",2.21
+".Madison County, Tennessee","99,172","99,193",0.02
+".Marion County, Tennessee","29,050","29,382",1.14
+".Marshall County, Tennessee","35,857","36,961",3.08
+".Maury County, Tennessee","107,996","110,760",2.56
+".Meigs County, Tennessee","13,258","13,691",3.27
+".Monroe County, Tennessee","47,680","48,594",1.92
+".Montgomery County, Tennessee","234,899","239,872",2.12
+".Moore County, Tennessee","6,716","6,748",0.48
+".Morgan County, Tennessee","21,207","21,573",1.73
+".Obion County, Tennessee","30,374","30,411",0.12
+".Overton County, Tennessee","22,993","23,327",1.45
+".Perry County, Tennessee","8,705","8,891",2.14
+".Pickett County, Tennessee","5,103","5,128",0.49
+".Polk County, Tennessee","17,778","18,033",1.43
+".Putnam County, Tennessee","82,470","83,844",1.67
+".Rhea County, Tennessee","33,689","33,924",0.70
+".Roane County, Tennessee","55,129","56,096",1.75
+".Robertson County, Tennessee","75,398","76,776",1.83
+".Rutherford County, Tennessee","360,682","367,101",1.78
+".Scott County, Tennessee","21,999","22,171",0.78
+".Sequatchie County, Tennessee","16,918","17,161",1.44
+".Sevier County, Tennessee","98,806","99,415",0.62
+".Shelby County, Tennessee","916,357","910,042",-0.69
+".Smith County, Tennessee","20,470","20,538",0.33
+".Stewart County, Tennessee","13,994","14,222",1.63
+".Sullivan County, Tennessee","160,862","162,135",0.79
+".Sumner County, Tennessee","203,721","207,994",2.10
+".Tipton County, Tennessee","61,650","62,015",0.59
+".Trousdale County, Tennessee","12,077","12,271",1.61
+".Unicoi County, Tennessee","17,591","17,756",0.94
+".Union County, Tennessee","20,473","20,741",1.31
+".Van Buren County, Tennessee","6,430","6,493",0.98
+".Warren County, Tennessee","42,001","42,638",1.52
+".Washington County, Tennessee","136,147","138,420",1.67
+".Wayne County, Tennessee","16,266","16,066",-1.23
+".Weakley County, Tennessee","33,043","33,084",0.12
+".White County, Tennessee","28,000","28,692",2.47
+".Williamson County, Tennessee","260,738","264,460",1.43
+".Wilson County, Tennessee","158,593","163,674",3.20
+".Anderson County, Texas","57,227","57,736",0.89
+".Andrews County, Texas","18,324","18,664",1.86
+".Angelina County, Texas","87,124","87,319",0.22
+".Aransas County, Texas","24,963","25,374",1.65
+".Archer County, Texas","8,849","9,029",2.03
+".Armstrong County, Texas","1,857","1,832",-1.35
+".Atascosa County, Texas","50,736","51,784",2.07
+".Austin County, Texas","31,070","31,677",1.95
+".Bailey County, Texas","6,803","6,672",-1.93
+".Bandera County, Texas","22,120","22,637",2.34
+".Bastrop County, Texas","106,395","110,778",4.12
+".Baylor County, Texas","3,462","3,463",0.03
+".Bee County, Texas","30,992","30,850",-0.46
+".Bell County, Texas","387,454","393,193",1.48
+".Bexar County, Texas","2,060,191","2,087,679",1.33
+".Blanco County, Texas","12,411","13,048",5.13
+".Borden County, Texas",580,572,-1.38
+".Bosque County, Texas","18,707","18,996",1.54
+".Bowie County, Texas","91,712","91,687",-0.03
+".Brazoria County, Texas","388,234","398,938",2.76
+".Brazos County, Texas","241,931","244,703",1.15
+".Brewster County, Texas","9,344","9,513",1.81
+".Briscoe County, Texas","1,439","1,445",0.42
+".Brooks County, Texas","6,902","6,848",-0.78
+".Brown County, Texas","38,443","38,709",0.69
+".Burleson County, Texas","18,690","19,475",4.20
+".Burnet County, Texas","52,567","53,991",2.71
+".Caldwell County, Texas","47,849","49,859",4.20
+".Calhoun County, Texas","19,682","19,696",0.07
+".Callahan County, Texas","14,247","14,374",0.89
+".Cameron County, Texas","424,911","426,710",0.42
+".Camp County, Texas","12,721","13,000",2.19
+".Carson County, Texas","5,816","5,878",1.07
+".Cass County, Texas","28,538","28,659",0.42
+".Castro County, Texas","7,287","7,227",-0.82
+".Chambers County, Texas","51,309","53,876",5.00
+".Cherokee County, Texas","51,432","52,217",1.53
+".Childress County, Texas","6,841","6,788",-0.77
+".Clay County, Texas","10,499","10,738",2.28
+".Cochran County, Texas","2,522","2,509",-0.52
+".Coke County, Texas","3,322","3,352",0.90
+".Coleman County, Texas","7,822","7,842",0.26
+".Collin County, Texas","1,158,995","1,195,359",3.14
+".Collingsworth County, Texas","2,585","2,563",-0.85
+".Colorado County, Texas","20,832","21,117",1.37
+".Comal County, Texas","184,749","193,928",4.97
+".Comanche County, Texas","13,921","14,050",0.93
+".Concho County, Texas","3,367","3,297",-2.08
+".Cooke County, Texas","43,048","43,782",1.71
+".Coryell County, Texas","84,205","84,878",0.80
+".Cottle County, Texas","1,317","1,294",-1.75
+".Crane County, Texas","4,551","4,574",0.51
+".Crockett County, Texas","2,960","2,858",-3.45
+".Crosby County, Texas","4,992","4,917",-1.50
+".Culberson County, Texas","2,163","2,196",1.53
+".Dallam County, Texas","7,235","7,237",0.03
+".Dallas County, Texas","2,601,993","2,606,358",0.17
+".Dawson County, Texas","12,176","12,004",-1.41
+".Deaf Smith County, Texas","18,399","18,347",-0.28
+".Delta County, Texas","5,413","5,520",1.98
+".Denton County, Texas","977,760","1,007,703",3.06
+".DeWitt County, Texas","19,754","19,929",0.89
+".Dickens County, Texas","1,736","1,711",-1.44
+".Dimmit County, Texas","8,360","8,257",-1.23
+".Donley County, Texas","3,289","3,214",-2.28
+".Duval County, Texas","9,706","9,604",-1.05
+".Eastland County, Texas","17,893","18,037",0.80
+".Ector County, Texas","161,057","164,494",2.13
+".Edwards County, Texas","1,428","1,393",-2.45
+".Ellis County, Texas","212,323","222,829",4.95
+".El Paso County, Texas","867,239","869,880",0.30
+".Erath County, Texas","43,837","44,195",0.82
+".Falls County, Texas","16,956","17,286",1.95
+".Fannin County, Texas","37,075","37,571",1.34
+".Fayette County, Texas","24,934","25,474",2.17
+".Fisher County, Texas","3,626","3,612",-0.39
+".Floyd County, Texas","5,239","5,090",-2.84
+".Foard County, Texas","1,063","1,079",1.51
+".Fort Bend County, Texas","888,919","916,778",3.13
+".Franklin County, Texas","10,665","10,735",0.66
+".Freestone County, Texas","20,032","20,441",2.04
+".Frio County, Texas","17,716","17,987",1.53
+".Gaines County, Texas","22,140","22,523",1.73
+".Galveston County, Texas","357,387","361,744",1.22
+".Garza County, Texas","4,498","4,517",0.42
+".Gillespie County, Texas","27,501","27,733",0.84
+".Glasscock County, Texas","1,139","1,141",0.18
+".Goliad County, Texas","7,120","7,144",0.34
+".Gonzales County, Texas","19,816","19,930",0.58
+".Gray County, Texas","20,980","20,916",-0.31
+".Grayson County, Texas","143,198","146,907",2.59
+".Gregg County, Texas","125,559","126,243",0.54
+".Grimes County, Texas","31,170","32,384",3.89
+".Guadalupe County, Texas","182,702","188,454",3.15
+".Hale County, Texas","31,966","31,761",-0.64
+".Hall County, Texas","2,818","2,818",0.00
+".Hamilton County, Texas","8,313","8,619",3.68
+".Hansford County, Texas","5,111","5,071",-0.78
+".Hardeman County, Texas","3,525","3,490",-0.99
+".Hardin County, Texas","57,840","58,261",0.73
+".Harris County, Texas","4,781,337","4,835,125",1.12
+".Harrison County, Texas","70,038","70,895",1.22
+".Hartley County, Texas","5,228","5,145",-1.59
+".Haskell County, Texas","5,376","5,385",0.17
+".Hays County, Texas","269,103","280,486",4.23
+".Hemphill County, Texas","3,225","3,189",-1.12
+".Henderson County, Texas","84,490","86,158",1.97
+".Hidalgo County, Texas","888,286","898,471",1.15
+".Hill County, Texas","37,266","38,101",2.24
+".Hockley County, Texas","21,278","21,460",0.86
+".Hood County, Texas","66,394","67,774",2.08
+".Hopkins County, Texas","37,793","38,172",1.00
+".Houston County, Texas","21,943","22,066",0.56
+".Howard County, Texas","30,732","30,554",-0.58
+".Hudspeth County, Texas","3,416","3,451",1.02
+".Hunt County, Texas","108,438","113,347",4.53
+".Hutchinson County, Texas","20,222","20,033",-0.93
+".Irion County, Texas","1,534","1,549",0.98
+".Jack County, Texas","8,764","8,875",1.27
+".Jackson County, Texas","15,183","15,221",0.25
+".Jasper County, Texas","32,495","32,694",0.61
+".Jeff Davis County, Texas","1,906","1,856",-2.62
+".Jefferson County, Texas","251,601","251,496",-0.04
+".Jim Hogg County, Texas","4,774","4,720",-1.13
+".Jim Wells County, Texas","38,729","38,662",-0.17
+".Johnson County, Texas","195,496","202,906",3.79
+".Jones County, Texas","20,271","20,381",0.54
+".Karnes County, Texas","14,945","15,018",0.49
+".Kaufman County, Texas","172,611","185,690",7.58
+".Kendall County, Texas","49,019","50,537",3.10
+".Kenedy County, Texas",354,343,-3.11
+".Kent County, Texas",744,734,-1.34
+".Kerr County, Texas","53,784","53,915",0.24
+".Kimble County, Texas","4,420","4,442",0.50
+".King County, Texas",234,217,-7.26
+".Kinney County, Texas","3,131","3,148",0.54
+".Kleberg County, Texas","30,376","30,069",-1.01
+".Knox County, Texas","3,284","3,302",0.55
+".Lamar County, Texas","50,515","51,127",1.21
+".Lamb County, Texas","12,786","12,711",-0.59
+".Lampasas County, Texas","22,790","23,262",2.07
+".La Salle County, Texas","6,556","6,537",-0.29
+".Lavaca County, Texas","20,653","20,571",-0.40
+".Lee County, Texas","17,971","18,240",1.50
+".Leon County, Texas","16,220","16,538",1.96
+".Liberty County, Texas","102,462","108,272",5.67
+".Limestone County, Texas","22,164","22,250",0.39
+".Lipscomb County, Texas","2,846","2,906",2.11
+".Live Oak County, Texas","11,541","11,584",0.37
+".Llano County, Texas","22,623","22,875",1.11
+".Loving County, Texas",44,43,-2.27
+".Lubbock County, Texas","317,761","320,940",1.00
+".Lynn County, Texas","5,738","5,761",0.40
+".McCulloch County, Texas","7,468","7,452",-0.21
+".McLennan County, Texas","266,162","268,583",0.91
+".McMullen County, Texas",569,568,-0.18
+".Madison County, Texas","13,641","13,742",0.74
+".Marion County, Texas","9,550","9,571",0.22
+".Martin County, Texas","5,228","5,216",-0.23
+".Mason County, Texas","3,978","3,931",-1.18
+".Matagorda County, Texas","36,122","36,359",0.66
+".Maverick County, Texas","57,628","57,762",0.23
+".Medina County, Texas","53,657","54,797",2.12
+".Menard County, Texas","1,979","1,958",-1.06
+".Midland County, Texas","172,019","177,108",2.96
+".Milam County, Texas","25,622","25,951",1.28
+".Mills County, Texas","4,498","4,548",1.11
+".Mitchell County, Texas","8,938","9,075",1.53
+".Montague County, Texas","21,079","21,598",2.46
+".Montgomery County, Texas","679,554","711,354",4.68
+".Moore County, Texas","21,094","21,190",0.46
+".Morris County, Texas","12,052","12,066",0.12
+".Motley County, Texas","1,034","1,020",-1.35
+".Nacogdoches County, Texas","64,994","65,375",0.59
+".Navarro County, Texas","54,687","55,635",1.73
+".Newton County, Texas","12,041","12,039",-0.02
+".Nolan County, Texas","14,460","14,306",-1.07
+".Nueces County, Texas","351,590","352,289",0.20
+".Ochiltree County, Texas","9,692","9,704",0.12
+".Oldham County, Texas","1,761","1,783",1.25
+".Orange County, Texas","85,048","85,722",0.79
+".Palo Pinto County, Texas","29,322","29,747",1.45
+".Panola County, Texas","22,742","22,838",0.42
+".Parker County, Texas","165,938","173,494",4.55
+".Parmer County, Texas","9,649","9,617",-0.33
+".Pecos County, Texas","14,711","14,623",-0.60
+".Polk County, Texas","53,256","54,186",1.75
+".Potter County, Texas","114,911","114,647",-0.23
+".Presidio County, Texas","5,954","5,795",-2.67
+".Rains County, Texas","12,836","12,986",1.17
+".Randall County, Texas","146,244","148,255",1.38
+".Reagan County, Texas","3,121","3,141",0.64
+".Real County, Texas","2,832","2,854",0.78
+".Red River County, Texas","11,605","11,678",0.63
+".Reeves County, Texas","11,692","11,770",0.67
+".Refugio County, Texas","6,638","6,666",0.42
+".Roberts County, Texas",812,840,3.45
+".Robertson County, Texas","17,130","17,267",0.80
+".Rockwall County, Texas","123,342","131,307",6.46
+".Runnels County, Texas","9,884","9,868",-0.16
+".Rusk County, Texas","52,524","53,079",1.06
+".Sabine County, Texas","10,041","10,106",0.65
+".San Augustine County, Texas","7,860","7,833",-0.34
+".San Jacinto County, Texas","28,340","28,936",2.10
+".San Patricio County, Texas","70,087","70,660",0.82
+".San Saba County, Texas","5,880","5,845",-0.60
+".Schleicher County, Texas","2,359","2,391",1.36
+".Scurry County, Texas","16,269","16,212",-0.35
+".Shackelford County, Texas","3,212","3,229",0.53
+".Shelby County, Texas","24,061","24,179",0.49
+".Sherman County, Texas","2,778","2,678",-3.60
+".Smith County, Texas","241,995","245,209",1.33
+".Somervell County, Texas","9,797","9,888",0.93
+".Starr County, Texas","65,653","65,934",0.43
+".Stephens County, Texas","9,377","9,343",-0.36
+".Sterling County, Texas","1,426","1,397",-2.03
+".Stonewall County, Texas","1,218","1,218",0.00
+".Sutton County, Texas","3,232","3,221",-0.34
+".Swisher County, Texas","6,959","6,955",-0.06
+".Tarrant County, Texas","2,155,646","2,182,947",1.27
+".Taylor County, Texas","145,147","146,836",1.16
+".Terrell County, Texas",688,687,-0.15
+".Terry County, Texas","11,444","11,547",0.90
+".Throckmorton County, Texas","1,539","1,526",-0.84
+".Titus County, Texas","31,237","31,357",0.38
+".Tom Green County, Texas","118,913","119,057",0.12
+".Travis County, Texas","1,327,550","1,334,961",0.56
+".Trinity County, Texas","13,993","14,228",1.68
+".Tyler County, Texas","20,411","20,382",-0.14
+".Upshur County, Texas","42,454","43,281",1.95
+".Upton County, Texas","3,146","3,109",-1.18
+".Uvalde County, Texas","24,890","24,960",0.28
+".Val Verde County, Texas","47,617","47,720",0.22
+".Van Zandt County, Texas","62,888","64,000",1.77
+".Victoria County, Texas","91,074","91,664",0.65
+".Walker County, Texas","79,678","81,268",2.00
+".Waller County, Texas","61,852","63,553",2.75
+".Ward County, Texas","10,948","10,966",0.16
+".Washington County, Texas","36,368","37,007",1.76
+".Webb County, Texas","267,619","269,148",0.57
+".Wharton County, Texas","41,740","41,739",0.00
+".Wheeler County, Texas","4,787","4,804",0.36
+".Wichita County, Texas","130,220","130,180",-0.03
+".Wilbarger County, Texas","12,535","12,522",-0.10
+".Willacy County, Texas","20,254","20,037",-1.07
+".Williamson County, Texas","672,273","697,191",3.71
+".Wilson County, Texas","52,754","54,183",2.71
+".Winkler County, Texas","7,300","7,414",1.56
+".Wise County, Texas","74,897","78,097",4.27
+".Wood County, Texas","46,930","47,921",2.11
+".Yoakum County, Texas","7,484","7,468",-0.21
+".Young County, Texas","18,012","18,124",0.62
+".Zapata County, Texas","13,838","13,736",-0.74
+".Zavala County, Texas","9,384","9,312",-0.77
+".Beaver County, Utah","7,317","7,233",-1.15
+".Box Elder County, Utah","61,523","62,684",1.89
+".Cache County, Utah","140,145","142,393",1.60
+".Carbon County, Utah","20,540","20,609",0.34
+".Daggett County, Utah","1,015",992,-2.27
+".Davis County, Utah","369,887","373,207",0.90
+".Duchesne County, Utah","20,142","20,477",1.66
+".Emery County, Utah","10,093","10,144",0.51
+".Garfield County, Utah","5,258","5,314",1.07
+".Grand County, Utah","9,771","9,706",-0.67
+".Iron County, Utah","62,508","64,211",2.72
+".Juab County, Utah","12,586","13,023",3.47
+".Kane County, Utah","8,203","8,425",2.71
+".Millard County, Utah","13,343","13,437",0.70
+".Morgan County, Utah","12,837","13,000",1.27
+".Piute County, Utah","1,493","1,550",3.82
+".Rich County, Utah","2,649","2,670",0.79
+".Salt Lake County, Utah","1,186,569","1,185,813",-0.06
+".San Juan County, Utah","14,406","14,358",-0.33
+".Sanpete County, Utah","29,691","30,277",1.97
+".Sevier County, Utah","22,043","22,344",1.37
+".Summit County, Utah","43,045","42,759",-0.66
+".Tooele County, Utah","79,955","82,051",2.62
+".Uintah County, Utah","37,104","37,747",1.73
+".Utah County, Utah","702,692","719,174",2.35
+".Wasatch County, Utah","36,597","37,144",1.49
+".Washington County, Utah","197,730","202,452",2.39
+".Wayne County, Utah","2,634","2,614",-0.76
+".Weber County, Utah","269,460","271,926",0.92
+".Addison County, Vermont","37,555","37,720",0.44
+".Bennington County, Vermont","37,343","37,183",-0.43
+".Caledonia County, Vermont","30,587","30,610",0.08
+".Chittenden County, Vermont","169,357","169,481",0.07
+".Essex County, Vermont","5,997","6,010",0.22
+".Franklin County, Vermont","50,719","50,994",0.54
+".Grand Isle County, Vermont","7,490","7,467",-0.31
+".Lamoille County, Vermont","26,103","26,060",-0.16
+".Orange County, Vermont","29,880","29,943",0.21
+".Orleans County, Vermont","27,562","27,516",-0.17
+".Rutland County, Vermont","60,353","60,271",-0.14
+".Washington County, Vermont","60,115","60,142",0.04
+".Windham County, Vermont","45,899","45,966",0.15
+".Windsor County, Vermont","58,150","58,101",-0.08
+".Accomack County, Virginia","33,223","33,239",0.05
+".Albemarle County, Virginia","114,845","115,676",0.72
+".Alleghany County, Virginia","14,715","14,595",-0.82
+".Amelia County, Virginia","13,368","13,480",0.84
+".Amherst County, Virginia","31,472","31,396",-0.24
+".Appomattox County, Virginia","16,703","16,864",0.96
+".Arlington County, Virginia","233,678","234,162",0.21
+".Augusta County, Virginia","77,939","78,247",0.40
+".Bath County, Virginia","4,061","4,051",-0.25
+".Bedford County, Virginia","80,741","81,525",0.97
+".Bland County, Virginia","6,138","6,179",0.67
+".Botetourt County, Virginia","34,100","34,125",0.07
+".Brunswick County, Virginia","15,831","15,749",-0.52
+".Buchanan County, Virginia","19,383","19,087",-1.53
+".Buckingham County, Virginia","16,988","16,978",-0.06
+".Campbell County, Virginia","55,065","55,270",0.37
+".Caroline County, Virginia","31,940","32,640",2.19
+".Carroll County, Virginia","29,118","29,239",0.42
+".Charles City County, Virginia","6,568","6,610",0.64
+".Charlotte County, Virginia","11,400","11,336",-0.56
+".Chesterfield County, Virginia","378,290","383,876",1.48
+".Clarke County, Virginia","15,331","15,466",0.88
+".Craig County, Virginia","4,858","4,843",-0.31
+".Culpeper County, Virginia","54,290","54,973",1.26
+".Cumberland County, Virginia","9,751","9,878",1.30
+".Dickenson County, Virginia","13,733","13,640",-0.68
+".Dinwiddie County, Virginia","28,099","28,343",0.87
+".Essex County, Virginia","10,630","10,598",-0.30
+".Fairfax County, Virginia","1,139,309","1,141,878",0.23
+".Fauquier County, Virginia","74,677","75,165",0.65
+".Floyd County, Virginia","15,623","15,679",0.36
+".Fluvanna County, Virginia","28,117","28,462",1.23
+".Franklin County, Virginia","55,079","55,549",0.85
+".Frederick County, Virginia","94,808","95,994",1.25
+".Giles County, Virginia","16,432","16,457",0.15
+".Gloucester County, Virginia","39,550","40,057",1.28
+".Goochland County, Virginia","26,162","27,197",3.96
+".Grayson County, Virginia","15,325","15,285",-0.26
+".Greene County, Virginia","21,015","21,301",1.36
+".Greensville County, Virginia","11,204","11,133",-0.63
+".Halifax County, Virginia","33,620","33,432",-0.56
+".Hanover County, Virginia","112,860","114,148",1.14
+".Henrico County, Virginia","334,553","334,760",0.06
+".Henry County, Virginia","49,795","49,702",-0.19
+".Highland County, Virginia","2,296","2,339",1.87
+".Isle of Wight County, Virginia","40,135","40,711",1.44
+".James City County, Virginia","81,483","82,654",1.44
+".King and Queen County, Virginia","6,714","6,720",0.09
+".King George County, Virginia","27,918","28,568",2.33
+".King William County, Virginia","18,529","19,030",2.70
+".Lancaster County, Virginia","10,806","10,859",0.49
+".Lee County, Virginia","21,847","21,745",-0.47
+".Loudoun County, Virginia","432,792","436,347",0.82
+".Louisa County, Virginia","40,030","41,037",2.52
+".Lunenburg County, Virginia","12,002","12,038",0.30
+".Madison County, Virginia","14,008","14,128",0.86
+".Mathews County, Virginia","8,450","8,514",0.76
+".Mecklenburg County, Virginia","30,527","30,648",0.40
+".Middlesex County, Virginia","10,952","10,924",-0.26
+".Montgomery County, Virginia","98,826","98,666",-0.16
+".Nelson County, Virginia","14,747","14,705",-0.28
+".New Kent County, Virginia","24,952","26,134",4.74
+".Northampton County, Virginia","11,978","12,021",0.36
+".Northumberland County, Virginia","12,278","12,391",0.92
+".Nottoway County, Virginia","15,555","15,566",0.07
+".Orange County, Virginia","38,055","38,574",1.36
+".Page County, Virginia","23,777","23,741",-0.15
+".Patrick County, Virginia","17,601","17,509",-0.52
+".Pittsylvania County, Virginia","59,824","59,571",-0.42
+".Powhatan County, Virginia","31,585","32,105",1.65
+".Prince Edward County, Virginia","21,899","22,049",0.68
+".Prince George County, Virginia","43,021","42,871",-0.35
+".Prince William County, Virginia","487,012","489,640",0.54
+".Pulaski County, Virginia","33,683","33,655",-0.08
+".Rappahannock County, Virginia","7,453","7,414",-0.52
+".Richmond County, Virginia","9,126","9,184",0.64
+".Roanoke County, Virginia","96,756","97,026",0.28
+".Rockbridge County, Virginia","22,568","22,358",-0.93
+".Rockingham County, Virginia","85,414","86,568",1.35
+".Russell County, Virginia","25,437","25,477",0.16
+".Scott County, Virginia","21,480","21,433",-0.22
+".Shenandoah County, Virginia","44,936","45,228",0.65
+".Smyth County, Virginia","29,408","29,216",-0.65
+".Southampton County, Virginia","17,899","17,975",0.42
+".Spotsylvania County, Virginia","146,828","149,588",1.88
+".Stafford County, Virginia","163,169","165,428",1.38
+".Surry County, Virginia","6,527","6,593",1.01
+".Sussex County, Virginia","10,640","10,757",1.10
+".Tazewell County, Virginia","39,563","39,120",-1.12
+".Warren County, Virginia","41,404","41,843",1.06
+".Washington County, Virginia","53,855","54,050",0.36
+".Westmoreland County, Virginia","18,765","19,013",1.32
+".Wise County, Virginia","35,327","35,174",-0.43
+".Wythe County, Virginia","28,115","28,104",-0.04
+".York County, Virginia","71,164","70,952",-0.30
+".Alexandria city, Virginia","155,045","155,230",0.12
+".Bristol city, Virginia","16,940","16,807",-0.79
+".Buena Vista city, Virginia","6,569","6,566",-0.05
+".Charlottesville city, Virginia","45,272","44,983",-0.64
+".Chesapeake city, Virginia","252,459","253,886",0.57
+".Colonial Heights city, Virginia","18,278","18,393",0.63
+".Covington city, Virginia","5,633","5,545",-1.56
+".Danville city, Virginia","42,017","41,837",-0.43
+".Emporia city, Virginia","5,533","5,463",-1.27
+".Fairfax city, Virginia","24,752","25,144",1.58
+".Falls Church city, Virginia","14,489","14,685",1.35
+".Franklin city, Virginia","8,274","8,339",0.79
+".Fredericksburg city, Virginia","28,648","28,928",0.98
+".Galax city, Virginia","6,702","6,717",0.22
+".Hampton city, Virginia","137,858","137,098",-0.55
+".Harrisonburg city, Virginia","51,150","51,082",-0.13
+".Hopewell city, Virginia","22,790","22,752",-0.17
+".Lexington city, Virginia","7,506","7,528",0.29
+".Lynchburg city, Virginia","79,228","79,535",0.39
+".Manassas city, Virginia","42,673","42,696",0.05
+".Manassas Park city, Virginia","16,693","16,361",-1.99
+".Martinsville city, Virginia","13,697","13,763",0.48
+".Newport News city, Virginia","183,980","183,118",-0.47
+".Norfolk city, Virginia","232,558","230,930",-0.70
+".Norton city, Virginia","3,589","3,492",-2.70
+".Petersburg city, Virginia","33,462","33,309",-0.46
+".Poquoson city, Virginia","12,624","12,635",0.09
+".Portsmouth city, Virginia","96,954","96,793",-0.17
+".Radford city, Virginia","16,719","16,971",1.51
+".Richmond city, Virginia","228,367","229,247",0.39
+".Roanoke city, Virginia","97,657","97,171",-0.50
+".Salem city, Virginia","25,700","25,600",-0.39
+".Staunton city, Virginia","25,940","25,915",-0.10
+".Suffolk city, Virginia","98,426","100,659",2.27
+".Virginia Beach city, Virginia","455,069","453,649",-0.31
+".Waynesboro city, Virginia","22,799","23,182",1.68
+".Williamsburg city, Virginia","15,685","15,847",1.03
+".Winchester city, Virginia","27,861","27,617",-0.88
+".Adams County, Washington","20,898","20,820",-0.37
+".Asotin County, Washington","22,536","22,549",0.06
+".Benton County, Washington","212,829","215,219",1.12
+".Chelan County, Washington","80,038","79,997",-0.05
+".Clallam County, Washington","77,684","77,616",-0.09
+".Clark County, Washington","516,737","521,150",0.85
+".Columbia County, Washington","4,026","4,053",0.67
+".Cowlitz County, Washington","112,064","112,864",0.71
+".Douglas County, Washington","44,223","44,798",1.30
+".Ferry County, Washington","7,468","7,497",0.39
+".Franklin County, Washington","98,582","99,034",0.46
+".Garfield County, Washington","2,357","2,363",0.25
+".Grant County, Washington","101,580","102,678",1.08
+".Grays Harbor County, Washington","77,041","77,290",0.32
+".Island County, Washington","86,682","86,267",-0.48
+".Jefferson County, Washington","33,570","33,714",0.43
+".King County, Washington","2,265,311","2,271,380",0.27
+".Kitsap County, Washington","277,813","277,658",-0.06
+".Kittitas County, Washington","45,122","45,508",0.86
+".Klickitat County, Washington","23,303","23,589",1.23
+".Lewis County, Washington","85,357","86,154",0.93
+".Lincoln County, Washington","11,613","11,738",1.08
+".Mason County, Washington","68,171","68,389",0.32
+".Okanogan County, Washington","43,460","43,712",0.58
+".Pacific County, Washington","24,095","24,200",0.44
+".Pend Oreille County, Washington","14,138","14,361",1.58
+".Pierce County, Washington","926,479","928,696",0.24
+".San Juan County, Washington","18,672","18,566",-0.57
+".Skagit County, Washington","131,322","131,417",0.07
+".Skamania County, Washington","12,455","12,640",1.49
+".Snohomish County, Washington","840,452","844,761",0.51
+".Spokane County, Washington","549,740","551,455",0.31
+".Stevens County, Washington","48,283","48,837",1.15
+".Thurston County, Washington","298,639","299,003",0.12
+".Wahkiakum County, Washington","4,688","4,765",1.64
+".Walla Walla County, Washington","61,853","61,568",-0.46
+".Whatcom County, Washington","230,598","231,919",0.57
+".Whitman County, Washington","47,579","48,012",0.91
+".Yakima County, Washington","257,019","256,643",-0.15
+".Barbour County, West Virginia","15,391","15,378",-0.08
+".Berkeley County, West Virginia","129,379","132,440",2.37
+".Boone County, West Virginia","20,907","20,576",-1.58
+".Braxton County, West Virginia","12,170","12,162",-0.07
+".Brooke County, West Virginia","21,694","21,373",-1.48
+".Cabell County, West Virginia","92,485","92,082",-0.44
+".Calhoun County, West Virginia","6,069","5,959",-1.81
+".Clay County, West Virginia","7,840","7,783",-0.73
+".Doddridge County, West Virginia","7,712","7,680",-0.41
+".Fayette County, West Virginia","39,388","39,072",-0.80
+".Gilmer County, West Virginia","7,330","7,254",-1.04
+".Grant County, West Virginia","10,938","10,921",-0.16
+".Greenbrier County, West Virginia","32,375","32,149",-0.70
+".Hampshire County, West Virginia","23,457","23,649",0.82
+".Hancock County, West Virginia","28,254","28,145",-0.39
+".Hardy County, West Virginia","14,168","14,251",0.59
+".Harrison County, West Virginia","64,752","64,639",-0.17
+".Jackson County, West Virginia","27,667","27,593",-0.27
+".Jefferson County, West Virginia","59,001","59,787",1.33
+".Kanawha County, West Virginia","175,864","174,805",-0.60
+".Lewis County, West Virginia","16,674","16,500",-1.04
+".Lincoln County, West Virginia","19,851","19,701",-0.76
+".Logan County, West Virginia","31,206","30,827",-1.21
+".McDowell County, West Virginia","17,806","17,439",-2.06
+".Marion County, West Virginia","55,784","55,807",0.04
+".Marshall County, West Virginia","29,667","29,405",-0.88
+".Mason County, West Virginia","24,911","24,765",-0.59
+".Mercer County, West Virginia","58,612","58,057",-0.95
+".Mineral County, West Virginia","26,902","26,867",-0.13
+".Mingo County, West Virginia","22,445","22,023",-1.88
+".Monongalia County, West Virginia","106,978","107,718",0.69
+".Monroe County, West Virginia","12,322","12,382",0.49
+".Morgan County, West Virginia","17,435","17,649",1.23
+".Nicholas County, West Virginia","24,309","24,169",-0.58
+".Ohio County, West Virginia","41,463","41,194",-0.65
+".Pendleton County, West Virginia","6,067","6,029",-0.63
+".Pleasants County, West Virginia","7,570","7,428",-1.88
+".Pocahontas County, West Virginia","7,797","7,765",-0.41
+".Preston County, West Virginia","34,222","34,099",-0.36
+".Putnam County, West Virginia","57,063","56,962",-0.18
+".Raleigh County, West Virginia","72,801","72,356",-0.61
+".Randolph County, West Virginia","27,552","27,350",-0.73
+".Ritchie County, West Virginia","8,230","8,167",-0.77
+".Roane County, West Virginia","13,833","13,743",-0.65
+".Summers County, West Virginia","11,702","11,581",-1.03
+".Taylor County, West Virginia","16,410","16,388",-0.13
+".Tucker County, West Virginia","6,620","6,604",-0.24
+".Tyler County, West Virginia","8,090","7,919",-2.11
+".Upshur County, West Virginia","23,705","23,529",-0.74
+".Wayne County, West Virginia","37,980","37,686",-0.77
+".Webster County, West Virginia","8,141","8,045",-1.18
+".Wetzel County, West Virginia","13,994","13,890",-0.74
+".Wirt County, West Virginia","5,092","5,000",-1.81
+".Wood County, West Virginia","83,388","83,052",-0.40
+".Wyoming County, West Virginia","20,572","20,277",-1.43
+".Adams County, Wisconsin","21,252","21,449",0.93
+".Ashland County, Wisconsin","16,040","16,079",0.24
+".Barron County, Wisconsin","46,715","46,833",0.25
+".Bayfield County, Wisconsin","16,659","16,769",0.66
+".Brown County, Wisconsin","270,068","271,417",0.50
+".Buffalo County, Wisconsin","13,390","13,419",0.22
+".Burnett County, Wisconsin","16,988","17,092",0.61
+".Calumet County, Wisconsin","52,712","53,199",0.92
+".Chippewa County, Wisconsin","66,753","66,970",0.33
+".Clark County, Wisconsin","34,732","34,774",0.12
+".Columbia County, Wisconsin","58,228","58,091",-0.24
+".Crawford County, Wisconsin","16,015","15,944",-0.44
+".Dane County, Wisconsin","567,758","575,347",1.34
+".Dodge County, Wisconsin","88,374","88,231",-0.16
+".Door County, Wisconsin","30,551","30,562",0.04
+".Douglas County, Wisconsin","44,226","44,264",0.09
+".Dunn County, Wisconsin","45,622","45,794",0.38
+".Eau Claire County, Wisconsin","106,786","107,903",1.05
+".Florence County, Wisconsin","4,706","4,682",-0.51
+".Fond du Lac County, Wisconsin","103,812","103,948",0.13
+".Forest County, Wisconsin","9,332","9,325",-0.08
+".Grant County, Wisconsin","51,315","51,409",0.18
+".Green County, Wisconsin","36,885","36,951",0.18
+".Green Lake County, Wisconsin","19,208","19,344",0.71
+".Iowa County, Wisconsin","23,958","23,956",-0.01
+".Iron County, Wisconsin","6,199","6,228",0.47
+".Jackson County, Wisconsin","20,893","20,855",-0.18
+".Jefferson County, Wisconsin","85,725","85,743",0.02
+".Juneau County, Wisconsin","26,775","26,594",-0.68
+".Kenosha County, Wisconsin","167,637","167,488",-0.09
+".Kewaunee County, Wisconsin","20,653","20,690",0.18
+".La Crosse County, Wisconsin","120,252","120,486",0.19
+".Lafayette County, Wisconsin","16,906","16,945",0.23
+".Langlade County, Wisconsin","19,502","19,404",-0.50
+".Lincoln County, Wisconsin","28,355","28,405",0.18
+".Manitowoc County, Wisconsin","81,198","81,331",0.16
+".Marathon County, Wisconsin","137,955","138,612",0.48
+".Marinette County, Wisconsin","41,966","42,106",0.33
+".Marquette County, Wisconsin","15,777","15,838",0.39
+".Menominee County, Wisconsin","4,206","4,226",0.48
+".Milwaukee County, Wisconsin","918,078","916,205",-0.20
+".Monroe County, Wisconsin","45,894","46,151",0.56
+".Oconto County, Wisconsin","39,696","39,775",0.20
+".Oneida County, Wisconsin","38,193","38,226",0.09
+".Outagamie County, Wisconsin","192,269","193,234",0.50
+".Ozaukee County, Wisconsin","93,021","93,460",0.47
+".Pepin County, Wisconsin","7,378","7,441",0.85
+".Pierce County, Wisconsin","42,552","43,026",1.11
+".Polk County, Wisconsin","45,546","45,762",0.47
+".Portage County, Wisconsin","70,634","71,024",0.55
+".Price County, Wisconsin","14,159","14,102",-0.40
+".Racine County, Wisconsin","195,961","196,613",0.33
+".Richland County, Wisconsin","17,128","17,197",0.40
+".Rock County, Wisconsin","163,841","164,278",0.27
+".Rusk County, Wisconsin","14,099","14,143",0.31
+".St. Croix County, Wisconsin","95,967","96,763",0.83
+".Sauk County, Wisconsin","65,770","65,920",0.23
+".Sawyer County, Wisconsin","18,521","18,552",0.17
+".Shawano County, Wisconsin","40,987","41,109",0.30
+".Sheboygan County, Wisconsin","117,661","117,752",0.08
+".Taylor County, Wisconsin","19,941","20,058",0.59
+".Trempealeau County, Wisconsin","30,891","30,899",0.03
+".Vernon County, Wisconsin","31,063","31,170",0.34
+".Vilas County, Wisconsin","23,742","23,885",0.60
+".Walworth County, Wisconsin","105,664","105,822",0.15
+".Washburn County, Wisconsin","16,871","16,930",0.35
+".Washington County, Wisconsin","137,756","138,168",0.30
+".Waukesha County, Wisconsin","410,273","412,591",0.56
+".Waupaca County, Wisconsin","51,510","51,388",-0.24
+".Waushara County, Wisconsin","24,927","24,934",0.03
+".Winnebago County, Wisconsin","170,688","171,735",0.61
+".Wood County, Wisconsin","73,778","73,939",0.22
+".Albany County, Wyoming","38,178","38,257",0.21
+".Big Horn County, Wyoming","11,879","12,018",1.17
+".Campbell County, Wyoming","47,059","47,498",0.93
+".Carbon County, Wyoming","14,538","14,334",-1.40
+".Converse County, Wyoming","13,765","13,809",0.32
+".Crook County, Wyoming","7,419","7,592",2.33
+".Fremont County, Wyoming","39,566","39,815",0.63
+".Goshen County, Wyoming","12,636","12,642",0.05
+".Hot Springs County, Wyoming","4,623","4,661",0.82
+".Johnson County, Wyoming","8,719","8,759",0.46
+".Laramie County, Wyoming","100,781","100,984",0.20
+".Lincoln County, Wyoming","20,671","20,880",1.01
+".Natrona County, Wyoming","79,523","79,941",0.53
+".Niobrara County, Wyoming","2,348","2,354",0.26
+".Park County, Wyoming","30,505","30,735",0.75
+".Platte County, Wyoming","8,652","8,546",-1.23
+".Sheridan County, Wyoming","32,035","32,519",1.51
+".Sublette County, Wyoming","8,752","8,969",2.48
+".Sweetwater County, Wyoming","41,374","41,249",-0.30
+".Teton County, Wyoming","23,297","23,232",-0.28
+".Uinta County, Wyoming","20,727","20,745",0.09
+".Washakie County, Wyoming","7,724","7,710",-0.18
+".Weston County, Wyoming","6,858","6,808",-0.73
