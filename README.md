@@ -1,6 +1,6 @@
 # Cost of Living Analysis Project
 
-## **PLEASE RUN EACH NOTEBOOKS IN SEQUENTIAL ORDER**
+## **PLEASE RUN EACH NOTEBOOK IN SEQUENTIAL ORDER**
 
 This repository contains a set of Jupyter notebooks aimed at analyzing the cost of living factors to determine their impact on overall expenses. Through data cleaning, preprocessing, feature engineering, and machine learning techniques, the project explores relationships between various economic indicators and the total cost of living.
 
